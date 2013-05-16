@@ -1,0 +1,18 @@
+---
+author: admin
+layout: post
+title: all the pages
+---
+
+<h1>{{ page.title site.title }} </h1>
+<hr />
+
+{% for post in site.posts %}
+
+  
+    <h3>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </h3>
+  
+
+{% endfor %}
