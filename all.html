@@ -3,9 +3,15 @@ author: admin
 layout: post
 title: all the pages
 ---
+<h2>categories</h2>
+{% for category in site.categories %}
 
-<h1>{{ page.title site.title }} </h1>
-<hr />
+<li><a href="/categories/{{ category[0] }}.html">{{ category[0] }}</a></li>
+
+{% endfor %}
+
+
+
 
 {% for post in site.posts %}
 
@@ -13,6 +19,6 @@ title: all the pages
     <h3>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </h3>
-  
+    <!--<p> {{ post.excerpt }} </p>-->
 
 {% endfor %}
