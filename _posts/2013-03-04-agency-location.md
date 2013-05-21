@@ -1,16 +1,19 @@
 ---
+published: true
 title: Agency Location
 author: kartik
 layout: post
-categories: [parent]
+categories: 
+  - parent
 tags: VR Survey
+
 ---
+
 <h2>AGENCY LOCATION</h2>
 
+The map provides the visualization for identifying the parent agency of state vocational rehabilitation (VR) agencies across the United States and territories. This can be a nice way to find similarly situated VR agencies. 
 
-
-<p>The interactive map below draws on data relating to VR agency structure.</p>
-
+<p>The interactive map in this post draws on data relating to VR agency structure.</p>
 
 
 
