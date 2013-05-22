@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-        <title>Rehabilitation Rate by Disability Category </title>
+        <title>Mental Health Survey Data </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -46,14 +46,12 @@
 </a>
           <div class="nav-collapse collapse">
             <ul class="nav">
-              <li><a href="about.html">About</a></li>
-              <li><a href="contact.html">Contact</a></li>
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Topics<b class="caret"></b></a>
                 <ul class="dropdown-menu">
                   <li><a href="/collaboration.html">Collaboration</a></li>
                   <li><a href="/crp.html">CRPs/Vendors</a></li>
-                  <li><a href="parent.html">Parent Agency/Location</a></li>
+                  <li><a href="/parent.html">Parent Agency/Location</a></li>
                   <li><a href="/reallotment.html">Reallotment</a></li>
                   <li><a href="/transition.html">Transition</a></li>
                 </ul>
@@ -66,6 +64,18 @@
                   
                 </ul>
               </li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Raw Data<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="/mh_survey_data/raw_data/mental-health-survey-data.html">MH Survey/Data Dictionary</a></li>
+                  <li><a href="/raw_data/vr_survey/raw-data.html">VR Survey/Data Dictionary</a></li>
+                  <li><a href="/raw_data/welfare_survey_data/welfare-survey-data.html">Welfare Survey/Data Dictionary</a></li>
+
+                  
+                </ul>
+              </li>
+              <li><a href="/about.html">About</a></li>
+              <li><a href="/contact.html">Contact</a></li>
             </ul>
             
           </div><!--/.nav-collapse -->
@@ -74,25 +84,19 @@
     </div>
 
     <div class="container" role="main" id="main" />
-<h1>Rehabilitation Rate by Disability Category</h1>
+<h1>Mental Health Survey Data</h1>
 <hr />
-      <p>The rehabilitation rates for each type of disability at agency level were generated using RSA-911 FY2011 personal level data following these steps. Individuals were categorized into nine mutually exclusive disability groups (Visual, Hearing, Orthopedic, Intellectual, Substance abuse, Mental health, Learning disability, Traumatic brain injury and Other) based on the primary impairment and cause of primary impairment reported. Nine dichotomized dummy variables were created.</p>
+      <p>We offer access to full datasets from the ICI as well as accompanying data dictionaries so you can make full use of the raw data for your own analyses. We also offer PDFs of materials we have created using data from the ICI and RSA. Please check back often as we are continually updating and adding resources to this page.</p>
 
-<p>Individuals were categorized into two mutually exclusive outcome groups—closed after an employment outcome with an IPE (Status 26) and no employment outcome with an IPE (Status 28). Two binary dummy variables were created for these two groups. We then created our new variable by multiplication of the disability group with the outcome group:
-Disability type with Status 26 (i.e. Visual x Status 26)
-Disability type with the sum of Status 26 and Status 28 (i.e. [Visual x (Status 26 + Status 28)]
-</p>
-
-<p>We aggregated the sum of the two set of interactions calculated from previous step to get agency level data from personal level data.
-Finally, rehabilitation rate was calculated by dividing the total number of status 26 of a specific disability by the total number of IPEs (status 26 + Status 28) of that specific disability (i.e. ∑(Visual x Status 26) / ∑ [Visual x (Status 26 + Status 28)].</p>
-
-<div><iframe width="760px" height="646px" frameborder="0" scrolling="no" src="https://opendata.socrata.com/w/3ggm-6fg4/y34g-bnf3?cur=IQXOrUeYPQ9&amp;from=root"></iframe><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></div>
-
-<p>Source: RSA-911 FY2011</p>
+<ul>
+    <li>2011 Survey of State Mental Health Agencies (<a href="files/MH_Survey_ExploreVR.xlsx">Excel</a>, <a href="files/MH_Survey_ExploreVR.csv">CSV</a>)</li>
+    <li>2011 Survey of State Mental Health Agencies Data Dictionary - updated 10/2012 (<a href="files/Data Dictionary_MH_6.0.pdf">PDF</a>)</li>
+</ul>
 
 
       <footer>
-        <p>&copy; Company 2013</p>
+        <hr>
+        <p>&copy; ExploreVR.org <script>document.write(new Date().getFullYear())</script></p>
       </footer>
 
     </div> <!-- /container -->

@@ -2,7 +2,7 @@
 title: Rehabilitation Rate by Disability Category
 author: kartik
 layout: post
-categories: [General]
+categories: [rehabilitation rate]
 ---
 <p>The rehabilitation rates for each type of disability at agency level were generated using RSA-911 FY2011 personal level data following these steps. Individuals were categorized into nine mutually exclusive disability groups (Visual, Hearing, Orthopedic, Intellectual, Substance abuse, Mental health, Learning disability, Traumatic brain injury and Other) based on the primary impairment and cause of primary impairment reported. Nine dichotomized dummy variables were created.</p>
 

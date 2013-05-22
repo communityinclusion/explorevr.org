@@ -2,7 +2,7 @@
 title: Mental Health Survey Data
 author: kartik
 layout: post
-categories: [MH Survey Data, Raw Data]
+categories: [MH_Survey_Data, Raw_Data]
 tags: Mental Health, MH Survey
 ---
 <p>We offer access to full datasets from the ICI as well as accompanying data dictionaries so you can make full use of the raw data for your own analyses. We also offer PDFs of materials we have created using data from the ICI and RSA. Please check back often as we are continually updating and adding resources to this page.</p>
