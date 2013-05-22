@@ -1,11 +1,15 @@
 ---
+published: true
 title: Transition Age Youth
 author: kartik
 layout: post
-categories: [Transition]
-tags: RSA 911, VR Survey
+categories: 
+  - Transition
+tags: "RSA 911, VR Survey"
+
 ---
-<p>The chart below illustrates the average rehabilitation rate for transition age youth in each RSA disability category.</p>
+
+<p>Transitional age youth is an important population segment for VR agencies. The chart below illustrates the average rehabilitation rate for transition age youth in each RSA disability category.</p>
 
 <p>Rehabilitation rates are displayed for the following disability categories:</p>
 <ul>
