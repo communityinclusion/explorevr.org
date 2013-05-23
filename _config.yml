@@ -1,4 +1,4 @@
-
+baseurl: http://communityinclusion.github.io/explorevr.org/
 pygments: true
 permalink: none
 markdown: redcarpet
