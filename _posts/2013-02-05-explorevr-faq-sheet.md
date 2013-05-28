@@ -1,9 +1,5 @@
 ---
-title: ExploreVR FAQ Sheet
-author: admin
-layout: post
-categories: 
-  - faq_sheets
+published: !<tag:yaml.org,2002:js/undefined> ""
 
 ---
 
