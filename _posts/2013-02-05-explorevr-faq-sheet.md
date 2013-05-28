@@ -6,4 +6,4 @@ categories : [faq_sheets]
 ---
 
 <h1>ExploreVR FAQ Sheet</h1>
-<p><a href="#">Download ExploreVR FAQ</a></p>
+<p><a href="files/FactSheet_exploreVRlink.pdf">Download ExploreVR FAQ</a></p>
