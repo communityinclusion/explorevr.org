@@ -3,8 +3,7 @@ published: true
 title: "Rehabilitation Rates of VR Agencies by level of collaboration with IDD, MH, Welfare/TANF"
 author: kartik
 layout: post
-categories: 
-  - collaboration
+categories: [collaboration]
 tags: "IDD, Mental Health, VR Survey, Welfare / TANF"
 
 ---

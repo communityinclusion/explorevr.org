@@ -3,8 +3,7 @@ published: true
 title: Transition Age Youth
 author: kartik
 layout: post
-categories: 
-  - Transition
+categories: [transition]
 tags: "RSA 911, VR Survey"
 
 ---

@@ -3,6 +3,7 @@ title: 'Rehabilitation Rates for VR Agencies Reporting Collaboration with IDD Ag
 author: kartik
 layout: post
 categories: [collaboration]
+excerpt:
 tags: IDD, VR Survey
 ---
 <h3>Rehabilitation Rates for VR Agencies Reporting Collaboration with IDD Agencies in Three or More Areas</h3>

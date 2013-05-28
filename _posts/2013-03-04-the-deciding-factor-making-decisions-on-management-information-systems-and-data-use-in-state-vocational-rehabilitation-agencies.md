@@ -3,8 +3,7 @@ published: true
 title: "The Deciding Factor: Making Decisions on Management Information Systems and Data Use in State Vocational Rehabilitation Agencies"
 author: kartik
 layout: post
-categories: 
-  - review_vr
+categories: [review_vr]
 tags: VR Survey
 
 ---

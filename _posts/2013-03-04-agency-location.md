@@ -3,8 +3,7 @@ published: true
 title: Agency Location
 author: kartik
 layout: post
-categories: 
-  - parent
+categories: [parent]
 tags: VR Survey
 
 ---

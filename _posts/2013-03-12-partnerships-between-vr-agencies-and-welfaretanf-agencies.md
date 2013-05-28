@@ -3,8 +3,7 @@ published: true
 title: Partnerships between VR Agencies and Welfare/TANF Agencies
 author: kartik
 layout: post
-categories: 
-  - collaboration
+categories: [collaboration]
 tags: "VR Survey, Welfare / TANF, Welfare Survey"
 
 ---

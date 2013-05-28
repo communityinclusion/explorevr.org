@@ -3,8 +3,7 @@ published: true
 title: Rehabilitation Rates for VR Agencies Reporting Collaboration with MH Agencies in Three or More Areas
 author: kartik
 layout: post
-categories: 
-  - collaboration
+categories: [collaboration]
 tags: "Mental Health, Rehabilitation Rate, VR Survey"
 
 ---

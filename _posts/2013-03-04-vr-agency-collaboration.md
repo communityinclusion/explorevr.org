@@ -3,8 +3,7 @@ published: true
 title: Partnerships Between VR Agencies and IDD Agencies
 author: kartik
 layout: post
-categories: 
-  - collaboration
+categories: [collaboration]
 tags: "IDD, VR Survey"
 
 ---
