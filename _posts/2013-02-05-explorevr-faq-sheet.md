@@ -1,5 +1,4 @@
 ---
-published: !<tag:yaml.org,2002:js/undefined> ""
 title: ExploreVR FAQ Sheet
 author: admin
 layout: post
