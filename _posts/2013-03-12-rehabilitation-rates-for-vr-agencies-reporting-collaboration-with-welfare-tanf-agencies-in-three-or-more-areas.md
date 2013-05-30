@@ -7,8 +7,9 @@ categories: [collaboration]
 tags: "VR Survey, Welfare / TANF"
 
 ---
-
 The Welfare and TANF agencies are one of the prominent partners of the VR agencies across many states in the US. Visualization in this post illustrates rehabilitation rates of different states and territories across the US where VR is partnering with Welfare/TANF in more than three areas. 
+
+
 <div><iframe width="760px" height="646px" frameborder="0" scrolling="no" src="https://opendata.socrata.com/w/xss2-966y/y34g-bnf3?cur=bsPjNHuv1PG&amp;from=root"></iframe><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a>
 
 </div>

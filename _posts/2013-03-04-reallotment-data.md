@@ -7,6 +7,7 @@ tags: RSA 2
 ---
 <p>The charts below illustrate VR agency reallotment data from 2011 and 2012. The first two charts depict individual VR agencies' relinquished or requested funds for these two years and the third chart depicts the total funds relinquished or requested by parent agency type. If a state agency does not appear in the data then that SVRA did not seek to change its grant award and thus no data is provided.</p> 
 
+
 <p>Clicking on each chart's legend will allow you to manipulate the chart to only see data relevant to your needs or interests. To view the chart in full size and include all of the data in the visualization, click this symbol <i class="icon-fullscreen"></i>on the chart underneath the red MENU button.</p>
 
 <h2>2011 Reallotment</h2>

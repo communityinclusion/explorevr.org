@@ -7,9 +7,11 @@ categories: [review_vr]
 tags: VR Survey
 
 ---
+<p>Review VR Issue 2, 2012</p>
 
-<h2>Review VR Issue 2, 2012</h2>
 This Review VR analyses the data colleected through VR-RRTC survey and discusses how different states make decisions related to MIS for Vocational Rehabilitation Agencies. 
+
+
 Authors: Elizabeth Porter, Dana Jefferson, Susan Foley, &amp; Ngai Kwan
 
 <span class="left"><a href="files/review_vr/ReviewVR_2.pdf"><img src="img/ReviewVR_2_.png" alt="" /></a></span>

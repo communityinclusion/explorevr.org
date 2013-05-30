@@ -9,6 +9,7 @@ tags:
 ---
 <p>The interactive map below draws on data relating to VR agency collaboration with other state agencies or programs as reported in the 2011 National Survey of State Vocational Rehabilitation Agencies.</p>
 
+
 <p>Each tab in the graphic below represents one type of agency with which VR agencies report collaboration.</p>
 
 <p>Click through each tab to see the distribution of collaboration across the United States and its territories. Click on an individual state to learn more information.</p>

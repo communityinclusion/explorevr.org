@@ -6,9 +6,10 @@ layout: post
 categories: [review_vr]
 
 ---
-
-<h2>Review VR issue No. 3, 2013</h2>
+<p>Review VR issue No. 3, 2013</p>
 This issue of ReviewVR explores the policy level impact of the Affordable Care Act on funding health-related vocational rehabilitation services. 
+
+
 <p>By Robert “Bobby” Silverstein</p>
 
 <div class="left"><a href="files/review_vr/ReviewVR_3.pdf"><img src="img/ReviewVR_3.png"><p class=""><br /><b><i class="icon-download"></i>Download PDF</b></p></a></div>

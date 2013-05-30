@@ -6,7 +6,8 @@ categories: [collaboration]
 excerpt:
 tags: IDD, VR Survey
 ---
-<h3>Rehabilitation Rates for VR Agencies Reporting Collaboration with IDD Agencies in Three or More Areas</h3>
+
+
 <div><iframe width="760px" height="646px" frameborder="0" scrolling="no" src="https://opendata.socrata.com/w/ctsz-c6i9/y34g-bnf3?cur=YQwX6ge3_Je&amp;from=root"></iframe><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a>
 
 </div>

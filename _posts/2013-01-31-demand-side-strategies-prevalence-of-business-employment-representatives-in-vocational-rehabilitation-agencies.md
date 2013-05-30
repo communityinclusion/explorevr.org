@@ -5,8 +5,8 @@ layout: post
 categories : [review_vr]
 tags: VRSurvey
 ---
-<h1>Demand Side Strategies: Prevalence of Business Employment Representatives in Vocational Rehabilitation Agencies</h1>
-<h2>Review VR Issue 1, 2012</h2>
+<p>Review VR Issue 1, 2012</p>
+
 
 <p>By: Elizabeth Porter, Ngai Kwan, Joe Marrone, &amp; Susan Foley</p>
 
