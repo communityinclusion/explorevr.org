@@ -88,3 +88,6 @@ border-radius: 4px;}
       aside.alert{color:black;}
 
       #aca {background-image: url("/img/aca_jc.jpg"); }
+
+      #aca_inner {background-color: navy; color:white; margin:2em; }
+
