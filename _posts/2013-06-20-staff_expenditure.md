@@ -1,0 +1,72 @@
+---
+layout: default
+published: false
+---
+
+## Clustering of agencies vased on staff they have and total money they expend
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link href="http://nvd3.org/src/nv.d3.css" rel="stylesheet" type="text/css">
+  <style>
+  body {
+    overflow-y:scroll;
+    width: 960px;
+    margin-left: auto; 
+    margin-right: auto;
+    padding-top: 100px;
+  }
+  div.nvd3Plot {
+    height: 500px;
+    width: 900px;
+  }
+  </style>
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script src="http://d3js.org/d3.v2.min.js"></script>
+  <script src="http://nvd3.org/nv.d3.js"></script>
+  <script src="http://nvd3.org/lib/fisheye.js"></script>
+  <script src="http://raw.github.com/novus/nvd3/master/src/models/scatterPlusLineChart.js"></script>
+</head>
+<body>
+  <div id='chart3db5cf153d7' class='nvd3Plot'></div>
+  <script type='text/javascript'>
+      drawchart3db5cf153d7()
+      function drawchart3db5cf153d7(){  
+        var opts = {"id":"chart3db5cf153d7","yAxis":[],"x":"Staff","y":"Client","group":"Agency","type":"scatterChart","width":900,"height":400},
+          data = [{"State.Name":"Alabama","Agency":"Combined","Client":0,"Staff":199},{"State.Name":"Alaska","Agency":"Combined","Client":1537,"Staff":39},{"State.Name":"American Samoa","Agency":"Combined","Client":205,"Staff":4},{"State.Name":"Arizona","Agency":"Combined","Client":12780,"Staff":187},{"State.Name":"Arkansas","Agency":"Blind","Client":489,"Staff":37},{"State.Name":"California","Agency":"Combined","Client":44869,"Staff":724},{"State.Name":"Colorado","Agency":"Combined","Client":10907,"Staff":111},{"State.Name":"Connecticut","Agency":"Blind","Client":191,"Staff":17},{"State.Name":"Connecticut","Agency":"General","Client":4443,"Staff":77},{"State.Name":"Delaware","Agency":"Blind","Client":156,"Staff":7},{"State.Name":"Delaware","Agency":"General","Client":6982,"Staff":34},{"State.Name":"District of Columbia","Agency":"Combined","Client":0,"Staff":54},{"State.Name":"Florida","Agency":"Blind","Client":0,"Staff":54},{"State.Name":"Florida","Agency":"General","Client":26667,"Staff":439},{"State.Name":"Georgia","Agency":"Combined","Client":15339,"Staff":262},{"State.Name":"Guam","Agency":"Combined","Client":2,"Staff":8},{"State.Name":"Hawaii","Agency":"Combined","Client":1319,"Staff":34},{"State.Name":"Idaho","Agency":"Blind","Client":0,"Staff":11},{"State.Name":"Idaho","Agency":"General","Client":7136,"Staff":69},{"State.Name":"Illinois","Agency":"Combined","Client":23174,"Staff":365},{"State.Name":"Indiana","Agency":"Combined","Client":11472,"Staff":186},{"State.Name":"Iowa","Agency":"Blind","Client":239,"Staff":20},{"State.Name":"Iowa","Agency":"General","Client":28689,"Staff":107},{"State.Name":"Kansas","Agency":"Combined","Client":4186,"Staff":83},{"State.Name":"Kentucky","Agency":"General","Client":22660,"Staff":144},{"State.Name":"Kentucky","Agency":"Blind","Client":765,"Staff":16},{"State.Name":"Louisiana","Agency":"Combined","Client":19263,"Staff":104},{"State.Name":"Maine","Agency":"General","Client":5074,"Staff":89},{"State.Name":"Maine","Agency":"Blind","Client":304,"Staff":24},{"State.Name":"Maryland","Agency":"Combined","Client":14005,"Staff":170},{"State.Name":"Massachusetts","Agency":"Blind","Client":1002,"Staff":48},{"State.Name":"Massachusetts","Agency":"General","Client":11195,"Staff":256},{"State.Name":"Michigan","Agency":"Blind","Client":1040,"Staff":36},{"State.Name":"Michigan","Agency":"General","Client":22068,"Staff":269},{"State.Name":"Minnesota","Agency":"General","Client":6782,"Staff":154},{"State.Name":"Minnesota","Agency":"Blind","Client":0,"Staff":20},{"State.Name":"Mississippi","Agency":"Combined","Client":13356,"Staff":135},{"State.Name":"Missouri","Agency":"General","Client":15865,"Staff":147},{"State.Name":"Missouri","Agency":"Blind","Client":839,"Staff":17},{"State.Name":"Montana","Agency":"Combined","Client":2743,"Staff":39},{"State.Name":"Nebraska","Agency":"Blind","Client":491,"Staff":22},{"State.Name":"Nebraska","Agency":"General","Client":2180,"Staff":77},{"State.Name":"Nevada","Agency":"Combined","Client":1537,"Staff":49},{"State.Name":"New Hampshire","Agency":"Combined","Client":0,"Staff":51},{"State.Name":"New Jersey","Agency":"Blind","Client":500,"Staff":42},{"State.Name":"New Jersey","Agency":"General","Client":16241,"Staff":116},{"State.Name":"New Mexico","Agency":"Blind","Client":197,"Staff":8},{"State.Name":"New Mexico","Agency":"General","Client":6031,"Staff":80},{"State.Name":"New York","Agency":"Blind","Client":74,"Staff":65},{"State.Name":"New York","Agency":"General","Client":47336,"Staff":436},{"State.Name":"North Carolina","Agency":"Blind","Client":1563,"Staff":35},{"State.Name":"North Carolina","Agency":"General","Client":34788,"Staff":344},{"State.Name":"North Dakota","Agency":"Combined","Client":3159,"Staff":54},{"State.Name":"Northern Marianas","Agency":"Combined","Client":97,"Staff":3},{"State.Name":"Ohio","Agency":"Combined","Client":0,"Staff":259},{"State.Name":"Oklahoma","Agency":"Combined","Client":12860,"Staff":204},{"State.Name":"Oregon","Agency":"Blind","Client":264,"Staff":16},{"State.Name":"Oregon","Agency":"General","Client":4837,"Staff":121},{"State.Name":"Pennsylvania","Agency":"Combined","Client":18469,"Staff":416},{"State.Name":"Puerto Rico","Agency":"Combined","Client":22413,"Staff":295},{"State.Name":"Rhode Island","Agency":"Combined","Client":4702,"Staff":48},{"State.Name":"South Carolina","Agency":"Blind","Client":387,"Staff":28},{"State.Name":"South Carolina","Agency":"General","Client":5105,"Staff":235},{"State.Name":"South Dakota","Agency":"Blind","Client":169,"Staff":9},{"State.Name":"South Dakota","Agency":"General","Client":2162,"Staff":43},{"State.Name":"Tennessee","Agency":"Combined","Client":9350,"Staff":252},{"State.Name":"Texas","Agency":"Blind","Client":3914,"Staff":134},{"State.Name":"Texas","Agency":"General","Client":18953,"Staff":548},{"State.Name":"Utah","Agency":"Combined","Client":467,"Staff":129},{"State.Name":"Vermont","Agency":"Blind","Client":144,"Staff":4},{"State.Name":"Vermont","Agency":"General","Client":4850,"Staff":70},{"State.Name":"Virgin Islands","Agency":"Combined","Client":121,"Staff":10},{"State.Name":"Virginia","Agency":"Blind","Client":714,"Staff":17},{"State.Name":"Virginia","Agency":"General","Client":20253,"Staff":273},{"State.Name":"Washington","Agency":"Blind","Client":259,"Staff":16},{"State.Name":"Washington","Agency":"General","Client":4539,"Staff":119},{"State.Name":"West Virginia","Agency":"Combined","Client":0,"Staff":110},{"State.Name":"Wisconsin","Agency":"Combined","Client":22490,"Staff":166},{"State.Name":"Wyoming","Agency":"Combined","Client":1721,"Staff":29}]
+    
+        var data = d3.nest()
+          .key(function(d){
+            return opts.group === undefined ? 'main' : d[opts.group]
+          })
+          .entries(data)
+        
+        nv.addGraph(function() {
+          var chart = nv.models[opts.type]()
+            .x(function(d) { return d[opts.x] })
+            .y(function(d) { return d[opts.y] })
+            .width(opts.width)
+            .height(opts.height)
+           
+          
+            
+          chart.xAxis
+    .axisLabel( "Number of Counsellors" )
+          
+          
+        
+         d3.select("#" + opts.id)
+          .append('svg')
+          .datum(data)
+          .transition().duration(500)
+          .call(chart);
+  
+         nv.utils.windowResize(chart.update);
+         return chart;
+        });
+      };
+  </script></body>
+</html>
