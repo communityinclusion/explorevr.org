@@ -87,7 +87,8 @@ border-radius: 4px;}
       .thumbsup {text-align: center; border:1px grey solid;}
       aside.alert{color:black;}
 
-      #aca {background-image: url("/img/aca_jc.jpg"); }
 
-      #aca_inner {background-color: navy; color:white; margin:2em; }
+      #aca_inner {background-color: #0072ae; color:white; margin:2em; padding:2em; }
+
+      #aca_inner a {color:white; text-decoration: underline;}
 

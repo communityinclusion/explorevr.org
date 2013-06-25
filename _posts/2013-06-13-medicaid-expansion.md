@@ -1,13 +1,12 @@
 ---
-published: false
-title: "Agency Status - Medicaid Expansion"
+published: true
+title: "Affordable Care Act: Status of Medicaid Expansion"
 author: kartik
 layout: post
 categories: 
   - policy
 ---
 
-##Status of Medicaid Expansion
 The Affordable Care Act (ACA) is one of the most significan changes in the health care system of the United States. After the judgement of the Supreme Court, state governments are free to chose to either apply ACA or not in their respective states.
 The map in this post shows the current status of the state on whether they are accepting ACA or not. We will be updating this post as and when states change their stance.
 To explore the map, please hover over the state to know its status. Darker shades of same color represents higher population. 
