@@ -1,0 +1,48 @@
+ <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="/"><img src="/assets/evr_logo.png" alt="Explore VR logo" style="max-height:20px" />
+</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Topics<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="/collaboration.html">Collaboration</a></li>
+                  <li><a href="/crp.html">CRPs/Vendors</a></li>
+                  <li><a href="/parent.html">Parent Agency/Location</a></li>
+                  <li><a href="/reallotment.html">Reallotment</a></li>
+                  <li><a href="/transition.html">Transition</a></li>
+                </ul>
+              </li>
+               <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Publications<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="/review_vr.html">Review VR</a></li>
+                  <li><a href="/faq_sheets.html">FAQ Sheets</a></li>
+                  
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Raw Data<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="/mh_survey_data/raw_data/mental-health-survey-data.html">MH Survey/Data Dictionary</a></li>
+                  <li><a href="/raw_data/vr_survey/raw-data.html">VR Survey/Data Dictionary</a></li>
+                  <li><a href="/raw_data/welfare_survey_data/welfare-survey-data.html">Welfare Survey/Data Dictionary</a></li>
+
+                  
+                </ul>
+              </li>
+              <li><a href="/about.html">About</a></li>
+              <li><a href="/contact.html">Contact</a></li>
+            </ul>
+            
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
