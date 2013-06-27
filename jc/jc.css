@@ -88,7 +88,7 @@ border-radius: 4px;}
       aside.alert{color:black;}
 
  
-      #aca_inner {background-image: url(/img/healthcare.png);background-color: #0072ae; color:white; margin:2em; padding:2em; }
+      .hero-unit {background-image: url('/img/healthcare.png');background-color: #0072ae; color:white; background-size:100%;}
 
       #aca_inner a {color:white; text-decoration: underline;}
 
