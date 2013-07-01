@@ -1,7 +1,7 @@
 ---
 title: <img alt="Explore VR" src="/assets/evr_logo.png" alt="exploreVR logo" />
 author: admin
-layout: post
+layout: front
 ---
 <div class="row">
   
@@ -33,6 +33,15 @@ layout: post
 
 <div class="row">
 <div class="span10 offset2">
-  <h1>list of recent</h1>
+  <h1>Recent Posts</h1>
+{% for post in site.posts limit: 5 %}
+
+  
+    <h3>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </h3>
+    <p> {{ post.excerpt }} </p>
+
+{% endfor %}
 </div>
 </div>
