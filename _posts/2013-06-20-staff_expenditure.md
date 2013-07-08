@@ -1,6 +1,6 @@
 ---
 published: true
-title: Clustering of agencies based on staff they have and total money they expend
+title: Scatter plot of agencies based on staff they have and total money they expend
 author: kartik
 layout: post
 categories: 
@@ -13,4 +13,4 @@ x-axis shows number of counsellors and y-axis shows amount of money expended in 
 
   <iframe seamless="seamless" scrolling="no" src="/coun_coun.html" width="960" height="400"></iframe>
   
-Click on the colored dots along side the categories in the legend to select different types of agencies. You also have an option to magnify certain portion of the graph to further examine relative position of different agencies. To magnify, click on the circle alongside 'magnify' and then move on to the chart area. To hold the magnified view, click on the chart area and click again to restart the magnification upon hovering the mouse pointer. Deselect the 'magnify' circle to stop magnification altogether. 
+Click on the colored dots along side the categories in the legend to select different types of agencies. You also have an option to magnify certain portion of the graph to further examine relative position of different agencies. To magnify, click on the circle alongside 'magnify' and then move on to the chart area. To hold the magnified view, click on the chart area and click again to restart the magnification upon hovering the mouse pointer. Deselect the 'magnify' circle to stop magnification altogether.
