@@ -1,12 +1,13 @@
 ---
-title: "Agency Expenditures"
+published: true
+title: "Agency Expenditures for FY 2007 - FY 2011"
 author: kartik
 layout: post
 categories: 
   - policy
 ---
 
-There is wide variation in the amount of money that state VR agencies expend. That expenditure is based on the number of people the agency is serving, staff, services provided, programs, etc. The following chart groups states by their expenditure. One can see the dollar value that each state expended in a given year between 2007-2011 by hovering over a particular agency. Each agency is represented by a block sized proportionally to the money that they spend in any given year.
+There is wide variation in the amount of money that state VR agencies expend. That expenditure is based on the number of people the agency is serving, staff, services provided, programs, etc. The following chart groups states by their expenditure. One can see the dollar value that each state expended in a given year between 2007-2011 by hovering over a particular agency. Each agency is represented by a block, which is sized proportionally to the money agency spent in a given year.
 
 To change the year please use the drop down menu titled 'year' located below the chart. 
 
