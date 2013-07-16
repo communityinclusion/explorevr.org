@@ -1,13 +1,16 @@
 ---
+published: true
 title: Agency Level Collaboration
 author: kartik
 layout: post
-categories: [collaboration]
-tags:
+categories: 
+  - collaboration
+tags: 
   - maps
   - VR Survey
 ---
-<p>The interactive map below draws on data relating to VR agency collaboration with other state agencies or programs as reported in the 2011 National Survey of State Vocational Rehabilitation Agencies.</p>
+
+<p>This interactive map draws on data related to VR agency collaboration with other state agencies or programs, as reported in the 2011 National Survey of State Vocational Rehabilitation Agencies.</p>
 
 
 <p>Each tab in the graphic below represents one type of agency with which VR agencies report collaboration.</p>
