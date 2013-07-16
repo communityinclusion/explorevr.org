@@ -2,7 +2,7 @@
 title: 'Reallotment Data'
 author: kartik
 layout: post
-categories: [reallotment]
+categories: [policy]
 tags: RSA 2
 ---
 <p>The charts below illustrate VR agency reallotment data from 2011 and 2012. The first two charts depict individual VR agencies' relinquished or requested funds for these two years and the third chart depicts the total funds relinquished or requested by parent agency type. If a state agency does not appear in the data then that SVRA did not seek to change its grant award and thus no data is provided.</p> 
