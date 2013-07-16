@@ -3,11 +3,12 @@ published: true
 title: Partnerships between VR Agencies and Welfare/TANF Agencies
 author: kartik
 layout: post
-categories: [collaboration]
+categories: 
+  - collaboration
 tags: "VR Survey, Welfare / TANF, Welfare Survey"
-
 ---
-Vocational Rehabilitation agencies across the United States and Territories partners with other government agencies. This visualization illustrates in what areas does VR agencies collaborate with Welfare/TANF agencies the most. This visualization uses the data from the 2011 Survey of State Welfare Agencies.
+
+Vocational Rehabilitation agencies frequently partner with other government agencies. This visualization illustrates the areas in which VR agencies collaborate with Welfare/TANF agencies the most. This visualization uses data from the 2011 Survey of State Welfare Agencies.
 
 
 <h3>Areas of Collaboration Between VR and Welfare / TANF Agencies, as Reported by VR Agencies</h3>
