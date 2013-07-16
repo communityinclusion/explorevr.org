@@ -10,7 +10,7 @@ tags: Welfare Survey
 
 This interactive visualization provides a comparative analysis of state agencies in terms of their total expenditure and their number of staff. Agencies are divided into, 'general', 'blind' and 'combined' categories. 
 
-*** The X-axis shows the number of counselors and the Y-axis shows the amount of money expended (in thousands).***
+***The X-axis shows the number of counselors and the Y-axis shows the amount of money expended (in thousands).***
 
   <iframe seamless="seamless" scrolling="no" src="/coun_coun.html" width="960" height="400"></iframe>
   
