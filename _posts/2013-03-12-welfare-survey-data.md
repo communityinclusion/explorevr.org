@@ -13,6 +13,6 @@ tags: Welfare Survey
 
 
 <ul>
-	<li>2011 Survey of State Welfare Agencies (<a href="/files/Welfare_Survey_ExploreVR.xlsx">Excel</a>, <a href="/files/Welfare_Survey_ExploreVR.csv">CSV</a>)</li>
-	<li>2011 Survey of State Welfare Agencies Data Dictionary (<a href="/files/Welfare_datadictionary_5.0.pdf">PDF</a>)</li>
+	<li>2011 Survey of State Welfare Agencies (<a href="/files/Welfare_Survey_ExploreVR.xls">Excel</a>)</li>
+	<li>2011 Survey of State Welfare Agencies Data Dictionary (<a href="/files/Welfare_Survey_ExploreVR_dictionary.xls">Excel</a>)</li>
 </ul>
