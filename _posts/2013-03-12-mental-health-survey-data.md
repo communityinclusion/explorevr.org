@@ -1,11 +1,15 @@
 ---
+published: true
 title: Mental Health Survey Data
 author: kartik
 layout: post
-categories: [MH_Survey_Data, Raw_Data]
-tags: Mental Health, MH Survey
+categories: 
+  - MH_Survey_Data
+  - Raw_Data
+tags: "Mental Health, MH Survey"
 ---
-<p>We offer access to full datasets from the ICI as well as accompanying data dictionaries so you can make full use of the raw data for your own analyses. We also offer PDFs of materials we have created using data from the ICI and RSA. Please check back often as we are continually updating and adding resources to this page.</p>
+
+<p>We offer access to the dataset from the 2011 Survey of State Mental Health Agencies in both CSV and Excel format. These files also include the data dictionary. You can also download the data dictionary separately in PDF format.</p>
 
 
 <ul>
