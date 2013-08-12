@@ -8,7 +8,9 @@ categories:
 tags: Welfare Survey
 ---
 
-This interactive visualization provides a comparative analysis of state agencies in terms of their total clients that they serve and their number of staff. Agencies are divided into, 'general', 'blind' and 'combined' categories. 
+This interactive visualization provides a comparative analysis of state agencies in terms of their number staff and their number of clients. Agencies are divided into, 'general', 'blind' and 'combined' categories.
+**The X-axis shows the number of counselors and the Y-axis shows the number of clients.**
+
 
 ***The X-axis shows the number of counselors and the Y-axis shows the number of clients they serve.***
 
