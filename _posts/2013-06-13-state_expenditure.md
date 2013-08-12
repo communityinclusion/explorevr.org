@@ -15,4 +15,4 @@ To change the year please use the drop down menu titled 'year' located below the
 
 
 This visualization was created using RSA 2 data. To view the data specifically used for making this chart please click here. [here](https://docs.google.com/spreadsheet/ccc?key=0AsaOXlsO5AypdDktNDhreExNN3ZSWnVValBtdUJOb3c&usp=sharing "Expenditure data used in making the char").
-<iframe width='500' height='300' frameborder='0' src='https://docs.google.com/spreadsheet/pub?key=0AsaOXlsO5AypdDktNDhreExNN3ZSWnVValBtdUJOb3c&single=true&gid=0&output=html&widget=true'></iframe>
+<iframe width='500' height='300' frameborder='0' src='https://docs.google.com/spreadsheet/pub?key=0AsaOXlsO5AypdDktNDhreExNN3ZSWnVValBtdUJOb3c&output=html&widget=true'></iframe>
