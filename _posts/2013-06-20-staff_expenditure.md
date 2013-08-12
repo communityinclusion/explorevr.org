@@ -499,9 +499,9 @@ function gvisDataTableID34b62862450 () {
 ] 
 ];
 data.addColumn('string','State Name');
-data.addColumn('string','Agency');
-data.addColumn('number','Client');
-data.addColumn('number','Staff');
+data.addColumn('string','Agency Type');
+data.addColumn('number','Number of Clients');
+data.addColumn('number','Number of Staff');
 data.addRows(datajson);
 return(data);
 }
