@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-        <title>Agency staff and clients </title>
+        <title>Agency Staff and Client Ratio </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -85,15 +85,15 @@
     </div> 
 
     <div class="container" role="main" id="main" />
-<h1>Agency staff and clients</h1>
+<h1>Agency Staff and Client Ratio</h1>
 <hr />
-      <p>This interactive visualization provides a comparative analysis of state agencies in terms of their total clients that they serve and their number of staff. Agencies are divided into, &#39;general&#39;, &#39;blind&#39; and &#39;combined&#39; categories. </p>
+      <p>This interactive visualization provides a comparative analysis of state agencies in terms of their number staff and their number of clients. Agencies are divided into, &#39;general&#39;, &#39;blind&#39; and &#39;combined&#39; categories.</p>
 
-<p><strong><em>The X-axis shows the number of counselors and the Y-axis shows the number of clients they serve.</em></strong></p>
+<p><strong>The X-axis shows the number of counselors and the Y-axis shows the number of clients.</strong></p>
 
 <p><iframe seamless="seamless" scrolling="no" src="/coun_coun.html" width="960" height="400"></iframe></p>
 
-<p>Click on the colored dots along side the categories in the legend to select different types of agencies. You also have an option to magnify certain portion of the graph to further examine relative position of different agencies. To magnify, click on the circle alongside &#39;magnify&#39; and then move on to the chart area. To hold the magnified view, click on the chart area and click again to restart the magnification upon hovering the mouse pointer. Deselect the &#39;magnify&#39; circle to stop magnification altogether.</p>
+<p>To select certain agencies, click on the colored dots representing different agencies within the legend (upper right corner). To magnify certain portions of the graph, click on the circle alongside &#39;magnify&#39; (upper left corner) and then move your mouse over the chart area. To hold the magnified view, click on the chart area you are interesting in magnifying. Clicking on the chart area again will allow you to magnify another area of the chart. To stop magnification entirely, click ‘magnify’ (upper left corner).</p>
 
 <script type="text/javascript">
  
@@ -578,9 +578,9 @@ function gvisDataTableID34b62862450 () {
 ] 
 ];
 data.addColumn('string','State Name');
-data.addColumn('string','Agency');
-data.addColumn('number','Client');
-data.addColumn('number','Staff');
+data.addColumn('string','Agency Type');
+data.addColumn('number','Number of Clients');
+data.addColumn('number','Number of Staff');
 data.addRows(datajson);
 return(data);
 }
