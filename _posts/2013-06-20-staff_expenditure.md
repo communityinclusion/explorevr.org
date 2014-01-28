@@ -10,514 +10,514 @@ tags: Welfare Survey
 
 This interactive visualization provides a comparative analysis of state agencies in terms of their number staff and their number of clients. Agencies are divided into, 'general', 'blind' and 'combined' categories.
 
-**The X-axis shows the number of counselors and the Y-axis shows the number of clients.**
+**The X-axis shows the number of clients served with counseling services and the Y-axis shows the number of staff designated to provide counselling service or support to counseling services.**
 
 
 
 
-  <iframe seamless="seamless" scrolling="no" src="/coun_coun.html" width="960" height="400"></iframe>
+<script type='text/javascript' src='http://public.tableausoftware.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 654px; height: 728px;'><noscript><a href='#'><img alt='Dashboard 1 ' src='http:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;Co&#47;CounselingStaff&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='654' height='728' style='display:none;'><param name='host_url' value='http%3A%2F%2Fpublic.tableausoftware.com%2F' /> <param name='site_root' value='' /><param name='name' value='CounselingStaff&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='http:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;Co&#47;CounselingStaff&#47;Dashboard1&#47;1.png' / > <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div><div style='width:654px;height:22px;padding:0px 10px 0px 0px;color:black;font:normal 8pt verdana,helvetica,arial,sans-serif;'><div style='float:right; padding-right:8px;'><a href='http://www.tableausoftware.com/public/about-tableau-products?ref=http://public.tableausoftware.com/views/CounselingStaff/Dashboard1' target='_blank'>Learn About Tableau</a></div></div>
   
-To select certain agencies, click on the colored dots representing different agencies within the legend (upper right corner). To magnify certain portions of the graph, click on the circle alongside 'magnify' (upper left corner) and then move your mouse over the chart area. To hold the magnified view, click on the chart area you are interesting in magnifying. Clicking on the chart area again will allow you to magnify another area of the chart. To stop magnification entirely, click ‘magnify’ (upper left corner).
+
 
 <script type="text/javascript">
  
 // jsData 
-function gvisDataTableID34b62862450 () {
+function gvisDataTableID115668fc4d38 () {
   var data = new google.visualization.DataTable();
   var datajson =
 [
  [
  "Alabama",
 "Combined",
-0,
-199 
+5429,
+502 
 ],
 [
  "Alaska",
 "Combined",
-1537,
-39 
+2751,
+76 
 ],
 [
  "American Samoa",
 "Combined",
-205,
-4 
+217,
+14 
 ],
 [
  "Arizona",
 "Combined",
-12780,
-187 
+15601,
+291 
 ],
 [
  "Arkansas",
 "Blind",
-489,
-37 
+937,
+56 
 ],
 [
  "California",
 "Combined",
-44869,
-724 
+58329,
+1300 
 ],
 [
  "Colorado",
 "Combined",
-10907,
-111 
+16414,
+189 
 ],
 [
  "Connecticut",
 "Blind",
-191,
-17 
+293,
+21 
 ],
 [
  "Connecticut",
 "General",
-4443,
-77 
+6345,
+130 
 ],
 [
  "Delaware",
 "Blind",
-156,
-7 
+182,
+9 
 ],
 [
  "Delaware",
 "General",
-6982,
-34 
+10358,
+55 
 ],
 [
  "District of Columbia",
 "Combined",
-0,
-54 
+283,
+61 
 ],
 [
  "Florida",
 "Blind",
-0,
-54 
+726,
+168 
 ],
 [
  "Florida",
 "General",
-26667,
-439 
+53498,
+696 
 ],
 [
  "Georgia",
 "Combined",
-15339,
-262 
+26170,
+764 
 ],
 [
  "Guam",
 "Combined",
-2,
-8 
+67,
+13 
 ],
 [
  "Hawaii",
 "Combined",
-1319,
-34 
+1549,
+65 
 ],
 [
  "Idaho",
 "Blind",
-0,
-11 
+55,
+28 
 ],
 [
  "Idaho",
 "General",
-7136,
-69 
+10033,
+122 
 ],
 [
  "Illinois",
 "Combined",
-23174,
-365 
+28662,
+448 
 ],
 [
  "Indiana",
 "Combined",
-11472,
-186 
+18063,
+266 
 ],
 [
  "Iowa",
 "Blind",
-239,
-20 
+253,
+28 
 ],
 [
  "Iowa",
 "General",
-28689,
-107 
+32629,
+194 
 ],
 [
  "Kansas",
 "Combined",
-4186,
-83 
+10861,
+123 
 ],
 [
  "Kentucky",
 "General",
-22660,
-144 
+29311,
+316 
 ],
 [
  "Kentucky",
 "Blind",
-765,
-16 
+1334,
+43 
 ],
 [
  "Louisiana",
 "Combined",
-19263,
-104 
+25937,
+242 
 ],
 [
  "Maine",
 "General",
-5074,
-89 
+6187,
+117 
 ],
 [
  "Maine",
 "Blind",
-304,
-24 
+346,
+25 
 ],
 [
  "Maryland",
 "Combined",
-14005,
-170 
+19950,
+338 
 ],
 [
  "Massachusetts",
 "Blind",
-1002,
-48 
+1017,
+89 
 ],
 [
  "Massachusetts",
 "General",
-11195,
-256 
+11712,
+373 
 ],
 [
  "Michigan",
 "Blind",
-1040,
-36 
+1501,
+78 
 ],
 [
  "Michigan",
 "General",
-22068,
-269 
+33648,
+439 
 ],
 [
  "Minnesota",
 "General",
-6782,
-154 
+12172,
+308 
 ],
 [
  "Minnesota",
 "Blind",
-0,
-20 
+177,
+43 
 ],
 [
  "Mississippi",
 "Combined",
-13356,
-135 
+18151,
+462 
 ],
 [
  "Missouri",
 "General",
-15865,
-147 
+17340,
+250 
 ],
 [
  "Missouri",
 "Blind",
-839,
-17 
+1113,
+74 
 ],
 [
  "Montana",
 "Combined",
-2743,
-39 
+5650,
+80 
 ],
 [
  "Nebraska",
 "Blind",
-491,
-22 
+520,
+38 
 ],
 [
  "Nebraska",
 "General",
-2180,
-77 
+3426,
+157 
 ],
 [
  "Nevada",
 "Combined",
-1537,
-49 
+5303,
+101 
 ],
 [
  "New Hampshire",
 "Combined",
-0,
-51 
+1707,
+76 
 ],
 [
  "New Jersey",
 "Blind",
-500,
-42 
+1508,
+67 
 ],
 [
  "New Jersey",
 "General",
-16241,
-116 
+23916,
+218 
 ],
 [
  "New Mexico",
 "Blind",
-197,
-8 
+243,
+40 
 ],
 [
  "New Mexico",
 "General",
-6031,
-80 
+7816,
+117 
 ],
 [
  "New York",
 "Blind",
-74,
-65 
+279,
+85 
 ],
 [
  "New York",
 "General",
-47336,
-436 
+70559,
+617 
 ],
 [
  "North Carolina",
 "Blind",
-1563,
-35 
+2773,
+152 
 ],
 [
  "North Carolina",
 "General",
-34788,
-344 
+52708,
+743 
 ],
 [
  "North Dakota",
 "Combined",
-3159,
-54 
+4785,
+75 
 ],
 [
  "Northern Marianas",
 "Combined",
-97,
-3 
+174,
+7 
 ],
 [
  "Ohio",
 "Combined",
-0,
-259 
+16361,
+385 
 ],
 [
  "Oklahoma",
 "Combined",
-12860,
-204 
+17966,
+319 
 ],
 [
  "Oregon",
 "Blind",
-264,
-16 
+466,
+41 
 ],
 [
  "Oregon",
 "General",
-4837,
-121 
+11854,
+200 
 ],
 [
  "Pennsylvania",
 "Combined",
-18469,
-416 
+21179,
+820 
 ],
 [
  "Puerto Rico",
 "Combined",
-22413,
-295 
+23901,
+841 
 ],
 [
  "Rhode Island",
 "Combined",
-4702,
-48 
+6192,
+59 
 ],
 [
  "South Carolina",
 "Blind",
-387,
-28 
+532,
+84 
 ],
 [
  "South Carolina",
 "General",
-5105,
-235 
+13556,
+713 
 ],
 [
  "South Dakota",
 "Blind",
-169,
-9 
+486,
+13 
 ],
 [
  "South Dakota",
 "General",
-2162,
-43 
+4522,
+58 
 ],
 [
  "Tennessee",
 "Combined",
-9350,
-252 
+14440,
+523 
 ],
 [
  "Texas",
 "Blind",
-3914,
-134 
+7851,
+364 
 ],
 [
  "Texas",
 "General",
-18953,
-548 
+56961,
+1109 
 ],
 [
  "Utah",
 "Combined",
-467,
-129 
+8281,
+242 
 ],
 [
  "Vermont",
 "Blind",
-144,
-4 
+194,
+9 
 ],
 [
  "Vermont",
 "General",
-4850,
-70 
+6773,
+94 
 ],
 [
  "Virgin Islands",
 "Combined",
-121,
-10 
+249,
+18 
 ],
 [
  "Virginia",
 "Blind",
-714,
-17 
+767,
+80 
 ],
 [
  "Virginia",
 "General",
-20253,
-273 
+21495,
+443 
 ],
 [
  "Washington",
 "Blind",
-259,
-16 
+356,
+48 
 ],
 [
  "Washington",
 "General",
-4539,
-119 
+14058,
+246 
 ],
 [
  "West Virginia",
 "Combined",
-0,
-110 
+4893,
+263 
 ],
 [
  "Wisconsin",
 "Combined",
-22490,
-166 
+29352,
+252 
 ],
 [
  "Wyoming",
 "Combined",
-1721,
-29 
+3800,
+54 
 ] 
 ];
-data.addColumn('string','State Name');
-data.addColumn('string','Agency Type');
-data.addColumn('number','Number of Clients');
-data.addColumn('number','Number of Staff');
+data.addColumn('string','State.Name');
+data.addColumn('string','Agency');
+data.addColumn('number','Client');
+data.addColumn('number','Staff');
 data.addRows(datajson);
 return(data);
 }
  
 // jsDrawChart
-function drawChartTableID34b62862450() {
-  var data = gvisDataTableID34b62862450();
+function drawChartTableID115668fc4d38() {
+  var data = gvisDataTableID115668fc4d38();
   var options = {};
 options["allowHtml"] = true;
 options["height"] =    400;
 
      var chart = new google.visualization.Table(
-       document.getElementById('TableID34b62862450')
+       document.getElementById('TableID115668fc4d38')
      );
      chart.draw(data,options);
     
@@ -541,9 +541,9 @@ options["height"] =    400;
     pkgs.push(chartid);
 
   // Add the drawChart function to the global list of callbacks
-  callbacks.push(drawChartTableID34b62862450);
+  callbacks.push(drawChartTableID115668fc4d38);
 })();
-function displayChartTableID34b62862450() {
+function displayChartTableID115668fc4d38() {
   var pkgs = window.__gvisPackages = window.__gvisPackages || [];
   var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
   window.clearTimeout(window.__gvisLoad);
@@ -567,15 +567,15 @@ function displayChartTableID34b62862450() {
  </script>
  
 <!-- jsChart -->  
-<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartTableID34b62862450"></script>
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartTableID115668fc4d38"></script>
  
 <!-- divChart -->
   
-<div id="TableID34b62862450"
+<div id="TableID115668fc4d38"
   style="width: 600px; height: 400px;">
 </div>
- <div><span>Data: cc &#8226; Chart ID: <a href="Chart_TableID34b62862450.html">TableID34b62862450</a></span><br /> 
-
+ <div><span>Data: cc &#8226; Chart ID: <a href="Chart_TableID115668fc4d38.html">TableID115668fc4d38</a></span><br /> 
+<!-- htmlFooter -->
 <span> 
 R version 3.0.0 (2013-04-03) &#8226; <a href="http://code.google.com/p/google-motion-charts-with-r/">googleVis-0.4.3</a>
 &#8226; <a href="https://developers.google.com/terms/">Google Terms of Use</a> &#8226; <a href="https://google-developers.appspot.com/chart/interactive/docs/gallery/table.html#Data_Policy">Data Policy</a>
