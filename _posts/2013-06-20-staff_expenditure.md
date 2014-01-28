@@ -515,7 +515,7 @@ function drawChartTableID115668fc4d38() {
   var options = {};
 options["allowHtml"] = true;
 options["height"] =    400;
-options["width"] = 650;
+options["width"] = 700;
 
      var chart = new google.visualization.Table(
        document.getElementById('TableID115668fc4d38')
