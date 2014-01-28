@@ -515,6 +515,7 @@ function drawChartTableID115668fc4d38() {
   var options = {};
 options["allowHtml"] = true;
 options["height"] =    400;
+options["width"] = 650;
 
      var chart = new google.visualization.Table(
        document.getElementById('TableID115668fc4d38')
@@ -575,7 +576,6 @@ function displayChartTableID115668fc4d38() {
   style="width: 600px; height: 400px;">
 </div>
  <div><span>Data: cc &#8226; Chart ID: <a href="Chart_TableID115668fc4d38.html">TableID115668fc4d38</a></span><br /> 
-<!-- htmlFooter -->
 <span> 
 R version 3.0.0 (2013-04-03) &#8226; <a href="http://code.google.com/p/google-motion-charts-with-r/">googleVis-0.4.3</a>
 &#8226; <a href="https://developers.google.com/terms/">Google Terms of Use</a> &#8226; <a href="https://google-developers.appspot.com/chart/interactive/docs/gallery/table.html#Data_Policy">Data Policy</a>
