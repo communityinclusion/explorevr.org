@@ -1,0 +1,17 @@
+---
+
+layout: default
+title: Upcoming
+---
+<h2>Webinars</h2>
+
+{% for post in site.categories.upcoming %}
+
+
+    <h3>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </h3>
+        <p> {{ post.excerpt }} </p>
+
+
+{% endfor %}

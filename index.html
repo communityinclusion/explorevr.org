@@ -5,51 +5,53 @@ layout: front
 published: true
 ---
 
-<div class="row">
-  
-</div>
-<div class="hero-unit">
-         <h2>Affordable Care Act: Status of Medicaid Expansion</h2>
-  <p>The Affordable Care Act (ACA) is one of the most significant changes in the health care system of the United States. After the judgment of the Supreme Court, state governments are free to chose to either apply ACA or not in their respective states.</p>
-  <h4><a class="btn btn-primary btn-large" href="policy/medicaid-expansion.html"> View full post</a></h4>
+<!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <div class="container">
+        <div class="col-md-5">
+        {{page.title}}
+        <h3>Access the latest research on the public VR system. Download the latest VR data. Request customized analysis.</h3>
+        <p><a href="/about.html" class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
       </div>
+      <div class="col-md-4 offset2">
+      <div class="alert alert-info">
+    <strong><p>We are currently redesiging this project (using the <a href="http://bradfrostweb.com/blog/post/designing-in-the-open/"><em>design in the open</em></a> method). Not everyting will work correctly yet, but please bare with us.</p><strong>
+    </div>
+  </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <!-- Example row of columns -->
+      <div class="row">
+        <div class="col-md-6">
+          <h2>Publications & Analysis</h2>
+        {% for post in site.posts limit: 10 %}
 
 
+              <h4>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+              </h4>
+              <!--<p> {{ post.excerpt }} </p>-->
 
-            <div class="row">
-                <div class="span4 boxbox">
-                     <h2>Agency Staff to Client Ratio</h2>
-         <p><a href="/policy/staff_expenditure.html">View this scatter plot that groups agencies by their number of staff and clients for FY 2011.</p>
-          <p><img src="img/scatter_plot.png" class="img-rounded" alt="scatter plot" /></a></p>
-                     
-                </div>
-                <div class="span4 boxbox">
-                     <h2>Agency Expenditures FY 2007 - FY 2011</h2>
-                     <p><a href="policy/state_expenditure.html">View this chart that groups agencies by their expenditures from FY2007 to FY2011. </p>
-                     <p><img src="img/tree_map.png" class="img-rounded" alt="thumbnail of tree map of expenditures" /></a></p>
-                   
-          
-               </div>
-                <div class="span4 boxbox">
-                   <h2>Order of Selection</h2>
-                   <p><a href="/policy/state_oos.html">View this map that shows the status of order of selection for different agencies.</p>
-                   <p><img src="img/oo_map.png" class="img-rounded" alt="Order of selection map" /></a>
-                     </p>
-                       
-                </div>
-            </div>
+          {% endfor %}
 
-<div class="row">
-<div class="span10 ">
-  <h1>Recent Posts</h1>
-{% for post in site.posts limit: 5 %}
+        </div>
+        <div class="col-md-6">
+          <h2>Training & TA</h2>
+          <h3>Upcoming Webinars</h3>
 
-  
-    <h3>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </h3>
-    <p> {{ post.excerpt }} </p>
+          {% for post in site.categories.upcoming %}
 
-{% endfor %}
-</div>
-</div>
+
+              <h3>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+              </h3>
+                  <p> {{ post.excerpt }} </p>
+
+
+          {% endfor %}
+
+       </div>
+
+      </div>

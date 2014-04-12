@@ -8,14 +8,16 @@
     <meta name="author" content="">
 
     <!-- Le styles -->
-    <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
 <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
     <style type="text/css">
-      body {
-        padding-top: 60px;
-        padding-bottom: 40px;
-      }
+
+      /* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
     </style>
     <link href="/css/bootstrap-responsive.css" rel="stylesheet">
         <link href="/jc/jc.css" rel="stylesheet">
@@ -37,151 +39,223 @@
 
   <body>
 
-    <div class="navbar navbar-inverse navbar-fixed-top">
-      <div class="navbar-inner">
-        <div class="container">
-          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+   <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="brand" href="/"><img src="/assets/evr_logo.png" alt="Explore VR logo" style="max-height:20px" />
-</a>
-          <div class="nav-collapse collapse">
-            <ul class="nav">
-              <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Topics<b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                 <li><a href="/policy.html">Policy</a></li>
-                  <li><a href="/collaboration.html">Collaboration</a></li>
-                  <li><a href="/crp.html">CRPs/Vendors</a></li>
-                  <!--<li><a href="/parent.html">Parent Agency/Location</a></li>-->
-                  
-                  <li><a href="/transition.html">Transition</a></li>
-                </ul>
-              </li>
-               <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Publications<b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                  <li><a href="/review_vr.html">Review VR</a></li>
-                  <li><a href="/faq_sheets.html">FAQ Sheets</a></li>
-                  
-                </ul>
-              </li>
-              <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Raw Data<b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                  <li><a href="/mh_survey_data/raw_data/mental-health-survey-data.html">MH Survey/Data Dictionary</a></li>
-                  <li><a href="/raw_data/vr_survey/raw-data.html">VR Survey/Data Dictionary</a></li>
-                  <li><a href="/raw_data/welfare_survey_data/welfare-survey-data.html">Welfare Survey/Data Dictionary</a></li>
-
-                  
-                </ul>
-              </li>
-              <li><a href="/about.html">About</a></li>
-              <li><a href="/contact.html">Contact</a></li>
-            </ul>
-            
-          </div><!--/.nav-collapse -->
+          <a class="navbar-brand" href="/"><img src="/assets/evr_logo.png" alt="Explore VR logo" style="max-height:20px" /></a>
         </div>
-      </div>
-    </div> 
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <!--<li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Publications & Analysis <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Procedures</a></li>
+                <li><a href="#">Populations</a></li>
+                <li><a href="#">Outcomes</a></li>
+                <li><a href="#">Organization Structure</a></li>
+                <li><a href="#">Finance</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Training & TA   <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Upcoming</a></li>
+                <li><a href="#">Archives</a></li>
+                <li><a href="#">Request TA</a></li>
+                <li><a href="#">Request Custmized Analysis</a></li>
+              </ul>
+            </li>-->
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects  <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/vrrtc.html">VRRTC</a></li>
+                <li><a href="/rtac.html">RTAC</a></li>
+                <li><a href="/sga.html">SGA</a></li>
+                <li><a href="/demandside.html">Demand-Side Strategies</a></li>
 
-    <div class="container" role="main" id="main" />
-<h1><img alt="Explore VR" src="/assets/evr_logo.png" alt="exploreVR logo" /></h1>
-      
+
+              </ul>
+            </li>
+
+            <li><a href="/about.html">About</a></li>
+            <li><a href="/contact.html">Contact</a></li>
+
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+
+
+
+      <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <div class="container">
+        <div class="col-md-5">
+        <img alt="Explore VR" src="/assets/evr_logo.png" alt="exploreVR logo" />
+        <h3>Access the latest research on the public VR system. Download the latest VR data. Request customized analysis.</h3>
+        <p><a href="/about.html" class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
+      </div>
+      <div class="col-md-4 offset2">
+      <div class="alert alert-info">
+    <strong><p>We are currently redesiging this project (using the <a href="http://bradfrostweb.com/blog/post/designing-in-the-open/"><em>design in the open</em></a> method). Not everyting will work correctly yet, but please bare with us.</p><strong>
+    </div>
+  </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <!-- Example row of columns -->
       <div class="row">
-  
-</div>
-<div class="hero-unit">
-         <h2>Affordable Care Act: Status of Medicaid Expansion</h2>
-  <p>The Affordable Care Act (ACA) is one of the most significan changes in the health care system of the United States. After the judgement of the Supreme Court, state governments are free to chose to either apply ACA or not in their respective states.</p>
-  <h4><a class="btn btn-primary btn-large" href="policy/medicaid-expansion.html"> View full post</a></h4>
-      </div>
+        <div class="col-md-6">
+          <h2>Publications & Analysis</h2>
+        
 
 
+              <h4>
+                <a href="/webinars/upcoming/webinar-Strategies-for-Increasing-the-Hourly-Earnings.html">Strategies for Increasing the Hourly Earnings of VR Consumers in Western North Carolina and Resulting Implications for Statewide Expansion</a>
+              </h4>
+              <!--<p> <p><em>Wednesday, August 27, 2014 from 2:00 PM to 3:00 PM EST</em></p>
+ </p>-->
 
-            <div class="row">
-                <div class="span4 boxbox">
-                     <h2>Agency Staff to Client Ratio</h2>
-         <p><a href="/policy/staff_expenditure.html">View this scatter plot that groups agencies by their number of staff and clients for FY 2011.</p>
-          <p><img src="img/scatter_plot.png" class="img-rounded" alt="scatter plot" /></a></p>
-                     
-                </div>
-                <div class="span4 boxbox">
-                     <h2>Agency Expenditures FY 2007 - FY 2011</h2>
-                     <p><a href="policy/state_expenditure.html">View this chart that groups agencies by their expenditures from FY2007 to FY2011. </p>
-                     <p><img src="img/tree_map.png" class="img-rounded" alt="thumbnail of tree map of expenditures" /></a></p>
-                   
           
-               </div>
-                <div class="span4 boxbox">
-                   <h2>Order of Selection</h2>
-                   <p><a href="/policy/state_oos.html">View this map that shows the status of order of selection for different agencies.</p>
-                   <p><img src="img/oo_map.png" class="img-rounded" alt="Order of selection map" /></a>
-                     </p>
-                       
-                </div>
-            </div>
-
-<div class="row">
-<div class="span10 ">
-  <h1>Recent Posts</h1>
 
 
-  
-    <h3>
-      <a href="/policy/staff_expenditure.html">Agency Staff and Client Ratio</a>
-    </h3>
-    <p> <p>This interactive visualization provides a comparative analysis of state agencies in terms of their number staff and their number of clients. Agencies are divided into, &#39;general&#39;, &#39;blind&#39; and &#39;combined&#39; categories.</p>
- </p>
+              <h4>
+                <a href="/webinars/upcoming/webinar-Motivational-Interviewing.html">Motivational Interviewing (Seeking Mountaintops)</a>
+              </h4>
+              <!--<p> <p><em>Thursday, July 10, 2014 from 2:00 PM to 3:00 PM EST</em></p>
+ </p>-->
+
+          
 
 
+              <h4>
+                <a href="/webinars/upcoming/webinar-Measures-of-Quality-VR-Counseling.html">Measures of Quality VR Counseling in Kentucky</a>
+              </h4>
+              <!--<p> <p><em>Wednesday, July 30, 2014 from 1:30 PM to 2:30 PM EST</em></p>
+ </p>-->
 
-  
-    <h3>
-      <a href="/policy/state_oos.html">Agency Status - Order of Selection</a>
-    </h3>
-    <p> <p>Many states work under Order of Selection (OOS) to provide their services. The OOS provision is used for prioritizing and providing services to individuals with the most significant disabilities when the VR agency cannot serve all eligible individuals with disabilities under Title I of the Rehabilitation Act.</p>
- </p>
-
-
-
-  
-    <h3>
-      <a href="/policy/state_expenditure.html">Agency Expenditures for FY 2007 - FY 2011</a>
-    </h3>
-    <p> <p>There is wide variation in the amount of money that state VR agencies expend. That expenditure is based on the number of people the agency is serving, staff, services provided, programs, etc. The following chart groups states by their expenditure. One can see the dollar value that each state expended in a given year between 2007-2011 by hovering over a particular agency. Each agency is represented by a block, which is sized proportionally to the money agency spent in a given year.</p>
- </p>
+          
 
 
+              <h4>
+                <a href="/experts/five-reasons.html">Five Reasons that VR Directors Need a Strong Peer Network</a>
+              </h4>
+              <!--<p> <p>I heard recently that 18 new vocational rehabilitation (VR) directors have taken their positions within the past year. This means that more than one in five of the 80 VR directors across the country are new to their role.</p>
+ </p>-->
 
-  
-    <h3>
-      <a href="/policy/medicaid-expansion.html">Affordable Care Act: Status of Medicaid Expansion</a>
-    </h3>
-    <p> <p>The Affordable Care Act (ACA) is one of the most significant changes in the health care system of the United States. After the judgment of the Supreme Court, state governments are free to chose to either apply the ACA or not in their respective state. The map shows the current status of the state on whether they are accepting ACA or not. We will be updating this post as and when states change their stance.
+          
+
+
+              <h4>
+                <a href="/policy/staff_expenditure.html">Agency Staff and Client Ratio</a>
+              </h4>
+              <!--<p> <p>This interactive visualization provides a comparative analysis of state agencies in terms of their number staff and their number of clients. Agencies are divided into, &#39;general&#39;, &#39;blind&#39; and &#39;combined&#39; categories.</p>
+ </p>-->
+
+          
+
+
+              <h4>
+                <a href="/policy/state_oos.html">Agency Status - Order of Selection</a>
+              </h4>
+              <!--<p> <p>Many states work under Order of Selection (OOS) to provide their services. The OOS provision is used for prioritizing and providing services to individuals with the most significant disabilities when the VR agency cannot serve all eligible individuals with disabilities under Title I of the Rehabilitation Act.</p>
+ </p>-->
+
+          
+
+
+              <h4>
+                <a href="/policy/state_expenditure.html">Agency Expenditures for FY 2007 - FY 2011</a>
+              </h4>
+              <!--<p> <p>There is wide variation in the amount of money that state VR agencies expend. That expenditure is based on the number of people the agency is serving, staff, services provided, programs, etc. The following chart groups states by their expenditure. One can see the dollar value that each state expended in a given year between 2007-2011 by hovering over a particular agency. Each agency is represented by a block, which is sized proportionally to the money agency spent in a given year.</p>
+ </p>-->
+
+          
+
+
+              <h4>
+                <a href="/policy/medicaid-expansion.html">Affordable Care Act: Status of Medicaid Expansion</a>
+              </h4>
+              <!--<p> <p>The Affordable Care Act (ACA) is one of the most significant changes in the health care system of the United States. After the judgment of the Supreme Court, state governments are free to chose to either apply the ACA or not in their respective state. The map shows the current status of the state on whether they are accepting ACA or not. We will be updating this post as and when states change their stance.
 To explore the map, please hover over the state to know its status—opposes, support or weighing options. Darker shades of the same color represent a higher population of people within that particular category.</p>
+ </p>-->
+
+          
+
+
+              <h4>
+                <a href="/raw_data/welfare_survey_data/welfare-survey-data.html">Welfare Survey Data</a>
+              </h4>
+              <!--<p> <p>We offer access to the dataset from the 2011 Survey of State Welfare Agencies  in both CSV and Excel format. These files also include the data dictionary. You can also download the data dictionary separately in PDF format.</p>
+ </p>-->
+
+          
+
+
+              <h4>
+                <a href="/collaboration/rehabilitation-rates-of-vr-agencies-by-level-of-collaboration-with-idd-mh-welfaretanf.html">Rehabilitation Rates of VR Agencies by level of collaboration with IDD, MH, Welfare/TANF</a>
+              </h4>
+              <!--<p> <p>The IDD agencies are one of the prominent partners of the VR agencies. This visualization illustrates the variation in rehabilitation rates across different states and territories where VR and IDD are collaborating in more than three areas.</p>
+ </p>-->
+
+          
+
+        </div>
+        <div class="col-md-6">
+          <h2>Training & TA</h2>
+          <h3>Upcoming Webinars</h3>
+
+          
+
+
+              <h3>
+                <a href="/webinars/upcoming/webinar-Strategies-for-Increasing-the-Hourly-Earnings.html">Strategies for Increasing the Hourly Earnings of VR Consumers in Western North Carolina and Resulting Implications for Statewide Expansion</a>
+              </h3>
+                  <p> <p><em>Wednesday, August 27, 2014 from 2:00 PM to 3:00 PM EST</em></p>
  </p>
 
 
+          
 
-  
-    <h3>
-      <a href="/raw_data/welfare_survey_data/welfare-survey-data.html">Welfare Survey Data</a>
-    </h3>
-    <p> <p>We offer access to the dataset from the 2011 Survey of State Welfare Agencies  in both CSV and Excel format. These files also include the data dictionary. You can also download the data dictionary separately in PDF format.</p>
+
+              <h3>
+                <a href="/webinars/upcoming/webinar-Motivational-Interviewing.html">Motivational Interviewing (Seeking Mountaintops)</a>
+              </h3>
+                  <p> <p><em>Thursday, July 10, 2014 from 2:00 PM to 3:00 PM EST</em></p>
  </p>
 
 
-</div>
-</div>
+          
+
+
+              <h3>
+                <a href="/webinars/upcoming/webinar-Measures-of-Quality-VR-Counseling.html">Measures of Quality VR Counseling in Kentucky</a>
+              </h3>
+                  <p> <p><em>Wednesday, July 30, 2014 from 1:30 PM to 2:30 PM EST</em></p>
+ </p>
+
+
+          
+
+       </div>
+
+      </div>
 
 
             <footer>
         <hr>
-        <p>&copy; ExploreVR.org <script>document.write(new Date().getFullYear())</script>
-&mdash; ExploreVR is part of the Vocational Rehabilitation Research and Training Center (VR-RRTC). The VR-RRTC is a national center that builds the capacity of the public vocational rehabilitation (VR) program to improve employment outcomes for people with disabilities. The VR-RRTC is funded by the National Institute on Disability and Rehabilitation Research and the Rehabilitation Services Administration of the US Department of Education. Visit the VR-RRTC website (www.vr-rrtc.org) for more information about the center’s policy research, training, and technical assistance efforts.
+
+          <p><center><b>Current VR Projects</b><br /><a href="/vrrtc.html"><img src="/img/logos/VRRRTC_F.png" alt="vrrtc logo" /></a> <a href="/rtac.html"><img src="/img/logos/RTAC_F.png" alt="rtac logo" /></a> <a href="/sga.html"><img src="/img/logos/SGA_F.png" alt=" sga logo" /></a> <a href="/demandside.html"><img src="/img/logos/ondemand_f.png" alt="demandside logo" /></a></center></p>
+
+<p>&copy; ExploreVR.org <script>document.write(new Date().getFullYear())</script>&mdash; ExploreVR is part of the Vocational Rehabilitation Research and Training Center (VR-RRTC). The VR-RRTC is a national center that builds the capacity of the public vocational rehabilitation (VR) program to improve employment outcomes for people with disabilities. The VR-RRTC is funded by the National Institute on Disability and Rehabilitation Research and the Rehabilitation Services Administration of the US Department of Education. Visit the VR-RRTC website (www.vr-rrtc.org) for more information about the center’s policy research, training, and technical assistance efforts.
       </p>
       <script type="text/javascript">
 
@@ -199,25 +273,17 @@ To explore the map, please hover over the state to know its status—opposes, su
       </footer>
 
 
-    </div> <!-- /container -->
-    
+
+
 
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="/js/jquery.js"></script>
-    <script src="/js/bootstrap-transition.js"></script>
-    <script src="/js/bootstrap-alert.js"></script>
-    <script src="/js/bootstrap-modal.js"></script>
-    <script src="/js/bootstrap-dropdown.js"></script>
-    <script src="/js/bootstrap-scrollspy.js"></script>
-    <script src="/js/bootstrap-tab.js"></script>
-    <script src="/js/bootstrap-tooltip.js"></script>
-    <script src="/js/bootstrap-popover.js"></script>
-    <script src="/js/bootstrap-button.js"></script>
-    <script src="/js/bootstrap-collapse.js"></script>
-    <script src="/js/bootstrap-carousel.js"></script>
-    <script src="/js/bootstrap-typeahead.js"></script>
-    
+<script src="/js/jquery.js"></script>
+  <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+
+
+
   </body>
 </html>

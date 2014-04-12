@@ -1,7 +1,7 @@
 ---
 title: About
 author: admin
-layout: post
+layout: default
 ---
 
 ## ExploreVR
@@ -26,9 +26,9 @@ ExploreVR is part of the Vocational Rehabilitation Research and Training Center 
 
 ExploreVR is committed to the Open Data initiative that is being embraced by the U.S. government and around the nation. Our goal is to allow decision-makers, researchers and web builders access to all of the VR data that we collect. To that end, we release the data in its most raw form, as well as build useful applications to view the data. Because we take part in Open Data it is our hope that others will build and expand off of the work that we put forth.
 
-For more information about the open data initiative visit 
+For more information about the open data initiative visit
 
-### DATA SETS INCLUDE: 
+### DATA SETS INCLUDE:
 
 *   The 2011 National Survey of State Vocational Rehabilitation Agencies
 *   The 2010-2011 National Survey of Community Rehabilitation Providers
@@ -42,7 +42,7 @@ For more information about the open data initiative visit
 
 ### STATE LEVEL INFORMATION
 
-*   Population, 2010 estimate 
+*   Population, 2010 estimate
 *   Percentage of non-institutionalized working-age (21–64) people with disabilities, 2010
 *   Land area (square miles), 2010
 *   Unemployment rate (%), annual average, December 2010
@@ -60,9 +60,9 @@ For more information about the open data initiative visit
 ### VR Agency Information
 
 *   Type of Agency
-*   Type of Parent Agency 
+*   Type of Parent Agency
 *   Internal Organizations (e.g. rehab facilities, DDS)
-*   Programs within DSU 
+*   Programs within DSU
 *   Programs under Rehab Act
 *   Separate program for purchasing SE extended services
 
@@ -70,32 +70,32 @@ For more information about the open data initiative visit
 
 *   FY 09 Total Expenditures
 *   Average cost per individual served FY 09 Average Cost, Status 26
-*   FY 09 Average Cost, Status 28 
+*   FY 09 Average Cost, Status 28
 
 ### Collaboration
 
 *   Formal coordination of service delivery
 *   Formal data sharing
-*   Share Physical Space 
+*   Share Physical Space
     *   Formal coordination of supported employment extended services
     *   Joint funding programs, customers and / or staff
-    *   Shared monitoring process certification process, and/or common rate setting 
-    ### Service Delivery / Employment Outcomes 
-    
-    *   FY 09 Total N Served 
-    *   FY 09 Rehabilitation Rate 
+    *   Shared monitoring process certification process, and/or common rate setting
+    ### Service Delivery / Employment Outcomes
+
+    *   FY 09 Total N Served
+    *   FY 09 Rehabilitation Rate
     *   Individual cases closed after receiving services (FY 09 Total Closed)
-    *   Individuals closed status 26 (FY 09 Rehabilitated, Status 26) 
+    *   Individuals closed status 26 (FY 09 Rehabilitated, Status 26)
     *   Individuals closed status 28 (FY 09 Not Rehabilitated, Status 28)
     *   Average time between application and closure 26
-    *   FY 09 Average Days, Status 26 
-    *   FY 09 Average Days, Status 28 
+    *   FY 09 Average Days, Status 26
+    *   FY 09 Average Days, Status 28
     *   Percent individuals closed by disability (FY 09 Employment Outcomes (%) By Disability )
     *   Percent individuals closed by special population – transition, 65 (FY 09 Employment Outcomes (%) for Special Populations)
-    *   Percent individuals closed by special population – SSI, SSDI (FY 09 Employment Outcomes (%) for SSI Recipients and SSDI Beneficiaries) 
-    ### Staffing 
-    
-    *   Total FTEs 
-    *   Total FTEs by program 
-    *   Specialized staff 
+    *   Percent individuals closed by special population – SSI, SSDI (FY 09 Employment Outcomes (%) for SSI Recipients and SSDI Beneficiaries)
+    ### Staffing
+
+    *   Total FTEs
+    *   Total FTEs by program
+    *   Specialized staff
     *   Type of staff – Admin, counselor, support, other
