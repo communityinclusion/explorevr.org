@@ -3,7 +3,9 @@ title: Five Reasons that VR Directors Need a Strong Peer Network
 author: John Halliday
 layout: default
 categories: experts
+published: true
 ---
+
 I heard recently that 18 new vocational rehabilitation (VR) directors have taken their positions within the past year. This means that more than one in five of the 80 VR directors across the country are new to their role.
 
 <img src="/img/authors/john_halliday.jpg" alt="john halliday" class="pull-left" style="padding-right:3em;" />
@@ -26,7 +28,7 @@ But budgeting time and attention for peer networking is essential. Here are five
 
 5. Networking works best when it’s comprehensive. There needs to be a concerted effort on the part of all directors to be included in formal and informal peer networks. That’s the only way for the exchange of knowledge and perspectives to be made available to all in the VR program.
 
-Formal networking
+## Formal networking
 
 You have both formal and informal networking opportunities all around you, and I encourage you to take advantage of both types.
 
@@ -38,7 +40,7 @@ As a VR director, you can choose from an array of programs that support your age
 
 Directors always tell me that they find their efforts in these programs rewarding, and often gain as much from the informal connections as the structured programs.
 
-Informal networking
+## Informal networking
 
 But where do you get input on thorny issues such as budgets? Policy? HR? Where can you let your hair down and share some of your concerns about the VR program?
 
