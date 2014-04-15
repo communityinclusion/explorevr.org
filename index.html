@@ -7,15 +7,19 @@ published: true
 
 <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
+
       <div class="container">
+<div class="alert alert-warning"><p><small>We are currently redesiging this project (using the <a href="http://bradfrostweb.com/blog/post/designing-in-the-open/"><em>design in the open</em></a> method). Not everyting will work correctly yet, but please bare with us.</small></p></div>
         <div class="col-md-5">
         {{page.title}}
-        <h3>Access the latest research on the public VR system. Download the latest VR data. Request customized analysis.</h3>
+        <h4>Access the latest research on the public VR system.<br /> Download the latest VR data.<br /> Request customized analysis.</h4>
         <p><a href="/about.html" class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
       </div>
       <div class="col-md-4 offset2">
       <div class="alert alert-info">
-    <strong><p>We are currently redesiging this project (using the <a href="http://bradfrostweb.com/blog/post/designing-in-the-open/"><em>design in the open</em></a> method). Not everyting will work correctly yet, but please bare with us.</p><strong>
+<h4>Expert's Corner</h4>
+<img src="/img/authors/john_halliday.jpg" alt="john halliday" call="pull-left" style="height:100px; width:100px;" />
+<p>John Halliday gives you Five Reasons that VR Directors Need a Strong Peer Network</p>
     </div>
   </div>
       </div>
@@ -44,9 +48,9 @@ published: true
           {% for post in site.categories.upcoming %}
 
 
-              <h3>
+              <h4>
                 <a href="{{ post.url }}">{{ post.title }}</a>
-              </h3>
+              </h4>
                   <p> {{ post.excerpt }} </p>
 
 
