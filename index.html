@@ -12,7 +12,7 @@ published: true
 <div class="alert alert-warning"><p><small>We are currently redesiging this project (using the <a href="http://bradfrostweb.com/blog/post/designing-in-the-open/"><em>design in the open</em></a> method). Not everyting will work correctly yet, but please bare with us.</small></p></div>
         <div class="col-md-6">
         {{page.title}}
-        
+
       </div>
       <div class="col-md-4 offset1">
       <h4>Access the latest research on the public VR system.</h4>
@@ -23,7 +23,7 @@ published: true
   </div>
       </div>
     </div>
-          
+
           <div class="row spotlight">
                     <div class="container">
                     <div class="col-md-10 offset1">
@@ -60,7 +60,17 @@ published: true
           {% endfor %}
 
           <h2>Analysis</h2>
-       
+          {% for post in site.categories.home-ana %}
+
+
+              <h4>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+              </h4>
+
+
+          {% endfor %}
+
+
 
         </div>
         <div class="col-md-6">
