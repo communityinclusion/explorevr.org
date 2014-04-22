@@ -2,7 +2,11 @@
 title: 'Demand Side Strategies: Prevalence of Business Employment Representatives in Vocational Rehabilitation Agencies'
 author: admin
 layout: post
-categories : [review_vr]
+categories:
+- publications
+- organization_structure
+- review_vr
+- home-pubs
 tags: VRSurvey
 ---
 <p>Review VR Issue 1, 2012</p>

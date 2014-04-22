@@ -3,7 +3,11 @@ published: true
 title: "Funding Health-Related Vocational Rehabilitation Services: the Potential Impact of the Affordable Care Act"
 author: Robert Silverstein
 layout: post
-categories: [review_vr]
+categories:
+- ACA
+- home-pubs 
+- publications
+- review_vr
 
 ---
 <p>Review VR issue No. 3, 2013</p>
