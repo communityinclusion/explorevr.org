@@ -6,42 +6,56 @@ published: true
 ---
 
 <!-- Main jumbotron for a primary marketing message or call to action -->
-    <div class="jumbotron">
+    <div class="row grapher">
 
       <div class="container">
 <div class="alert alert-warning"><p><small>We are currently redesiging this project (using the <a href="http://bradfrostweb.com/blog/post/designing-in-the-open/"><em>design in the open</em></a> method). Not everyting will work correctly yet, but please bare with us.</small></p></div>
-        <div class="col-md-5">
+        <div class="col-md-6">
         {{page.title}}
-        <h4>Access the latest research on the public VR system.<br /> Download the latest VR data.<br /> Request customized analysis.</h4>
-        <p><a href="/about.html" class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
+        
       </div>
-      <div class="col-md-4 offset2">
-      <div class="alert alert-info">
-<h4>Expert's Corner</h4>
-<img src="/img/authors/john_halliday.jpg" alt="john halliday" call="pull-left" style="height:100px; width:100px;" />
-<p>John Halliday gives you <a href="/experts/five-reasons.html">Five Reasons that VR Directors Need a Strong Peer Network</a></p>
-    </div>
+      <div class="col-md-4 offset1">
+      <h4>Access the latest research on the public VR system.</h4>
+        <h4>Download the latest VR data.</h4>
+        <h4>Request customized analysis.</h4>
+        <p><a href="/about.html" class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
   </div>
       </div>
     </div>
+          
+          <div class="row spotlight">
+                    <div class="container">
+                    <div class="col-md-6">
+        <h4>VR Spotlight: Exploring Leadership Transitions</h4>
+</div>
+<div class="col-md-6">
+<br />
+<div class="alert alert-info">
+<h4>Expert's Corner</h4>
+<img src="/img/authors/john_halliday.jpg" alt="john halliday" class="pull-left" style="height:100px; width:100px; padding-right:10px;" />
+<p>John Halliday gives you <a href="/experts/five-reasons.html">Five Reasons that VR Directors Need a Strong Peer Network</a></p>
+<br style="clear:both;" />
+    </div>
+    </div>
+          </div>
+</div>
 
     <div class="container">
       <!-- Example row of columns -->
       <div class="row">
         <div class="col-md-6">
-          <h2>Publications & Analysis</h2>
-        {% for post in site.posts limit: 10 %}
+          <h2>Publications</h2>
 
-
-              <h4>
-                <a href="{{ post.url }}">{{ post.title }}</a>
-              </h4>
-              <!--<p> {{ post.excerpt }} </p>-->
-
-          {% endfor %}
+          <h2>Analysis</h2>
+       
 
         </div>
         <div class="col-md-6">
+
+
+
+
+
           <h2>Training & TA</h2>
           <h3>Upcoming Webinars</h3>
 
