@@ -3,9 +3,11 @@ title: Vocational Rehabilitation and Mental Health Agency Collaborations with th
 layout: default
 categories:
 - mental_health
+
+author: John Halliday
 ---
 
 **Connecticut Bureau of Rehabilitation Services (Case Study)**
 
-[Download the PDF](pdf/case_studies/MH_CT.pdf)
+[Download the PDF](/pdf/case_studies/MH_CT.pdf)
 
