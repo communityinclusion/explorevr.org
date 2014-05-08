@@ -1,5 +1,5 @@
 ---
-title: Five Reasons that VR Directors Need a Strong Peer Network
+title: Five Reasons why VR Directors Need a Strong Peer Network
 author: John Halliday
 layout: default
 categories: experts
@@ -436,4 +436,3 @@ callbacks.shift()();
 </td>
 </tr>
 </table>
-
