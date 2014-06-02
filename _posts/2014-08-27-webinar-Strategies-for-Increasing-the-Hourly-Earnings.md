@@ -13,6 +13,10 @@ North Carolina’s General VR Program (NC DVRS) partnered with ICI consultants t
 
 ###Presenters:
 
-Pat Bland, Jeff Stevens, Phil Protz, Bob Burns
+Pat Bland, Regional Director  
+Jeff Stevens, Chief of Planning and Evaluation  
+Phil Protz, Chief, Program Policy, Planning & Evaluation
 
-Registration information for this webinar will be posted soon!
+
+
+<a class="btn btn-primary btn-lg" role="button" href="https://events-na6.adobeconnect.com/content/connect/c1/839220836/en/events/event/shared/1149932032/event_registration.html?sco-id=1235803332&_charset_=utf-8">Register here</a>

@@ -13,6 +13,7 @@ This webinar will describe the process of working with RTAC to develop measures 
 
 ###Presenters:
 
-Jonathan White, Erin Hopper, Joe Marrone
+Jonathan White, District Office Manager  
+Erin Hopper, Administrator
 
-Registration information for this webinar will be posted soon!
+<a class="btn btn-primary btn-lg" role="button" href="https://events-na6.adobeconnect.com/content/connect/c1/839220836/en/events/event/shared/1149932032/event_registration.html?sco-id=1235731585&_charset_=utf-8">Register here</a>
