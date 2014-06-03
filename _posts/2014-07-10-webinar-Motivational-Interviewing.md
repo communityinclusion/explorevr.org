@@ -13,7 +13,7 @@ categories:
 
 ###description:
 
-Motivational Interviewing began as a voluntary staff training opportunity in Missouri Vocational Rehabilitation.  It has grown into an organizational improvement driver that has implications far beyond original expectations.  Our participation with RTAC enabled us to grow significantly in our capacity as an organization and in service to our clients.
+Motivational Interviewing began as a voluntary staff training opportunity in Missouri Vocational Rehabilitation.  It has grown into an organizational improvement driver that has implications far beyond original expectations.  Their participation with RTAC enabled them to grow significantly in their capacity as an organization and in service to our clients.
 
 ###Presenters:
 
