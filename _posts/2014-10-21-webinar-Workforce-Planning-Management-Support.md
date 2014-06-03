@@ -1,10 +1,12 @@
 ---
 title: Workforce Planning and Management Support
 layout: default
-categories:
-- webinars
-- upcoming
+categories: 
+  - webinars
+  - upcoming
+published: true
 ---
+
 *Tuesday, October 21 from 12:30- 1:30 pm EST*
 
 ### Brief description:
