@@ -1,11 +1,13 @@
 ---
 title: Kentucky Office for the Blind’s Experience with the Career Centers
 layout: default
-categories:
-- webinars
-- upcoming
+categories: 
+  - webinars
+  - upcoming
+published: true
 ---
-*Wednesday, October 1, 2014 from 2:00 PM to 3:00 PM EST*
+
+*Wednesday, October 2, 2014 from 2:00 PM to 3:00 PM EST*
 
 ### Brief description:
 
