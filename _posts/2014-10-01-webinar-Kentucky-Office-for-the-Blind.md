@@ -7,7 +7,7 @@ categories:
 published: true
 ---
 
-*Wednesday, October 2, 2014 from 2:00 PM to 3:00 PM EST*
+*Wednesday, October 1, 2014 from 2:00 PM to 3:00 PM EST*
 
 ### Brief description:
 
