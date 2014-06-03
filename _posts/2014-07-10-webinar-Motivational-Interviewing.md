@@ -1,8 +1,4 @@
 ---
-published: false
----
-
----
 title: Motivational Interviewing &#58; An Organizational Improvement Driver for Missouri Vocational Rehabilitation 
 layout: default
 categories:
