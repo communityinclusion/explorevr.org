@@ -1,10 +1,12 @@
 ---
-title: Quality Assurance Practices through Vendor Utilization Management
+title: Quality Assurance Practices through Vendor Utilization Management in California Department of Rehabilitation
 layout: default
-categories:
-- webinars
-- upcoming
+categories: 
+  - webinars
+  - upcoming
+published: true
 ---
+
 *Thursday, October 2, 2014 from 1:00 to 2:00 pm EST*
 
 ### Brief description:
