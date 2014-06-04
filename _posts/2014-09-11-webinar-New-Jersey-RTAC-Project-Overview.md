@@ -1,10 +1,12 @@
 ---
-title: New Jersey RTAC Project Overview
+title: New Jersey Division of Vocational Rehabilitation Financial Services Job Development
 layout: default
-categories:
-- webinars
-- upcoming
+categories: 
+  - webinars
+  - upcoming
+published: true
 ---
+
 *September 11, 2014 from 1:00 PM to 2:00 PM EST.*
 
 ###Brief description:
