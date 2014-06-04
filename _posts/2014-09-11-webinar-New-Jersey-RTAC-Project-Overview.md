@@ -1,5 +1,5 @@
 ---
-title: New Jersey Division of Vocational Rehabilitation Financial Services Job Development
+title: Financial Services Job Development in the New Jersey Division of Vocational Rehabilitation
 layout: default
 categories: 
   - webinars
