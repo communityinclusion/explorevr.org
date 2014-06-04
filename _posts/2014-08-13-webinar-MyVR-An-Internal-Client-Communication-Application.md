@@ -1,10 +1,12 @@
 ---
-title: MyVR - An Internal Client Communication Application
+title: "MyVR - An Internal Client Communication Application for Nebraska Vocational Rehabilitation"
 layout: default
-categories:
-- webinars
-- upcoming
+categories: 
+  - webinars
+  - upcoming
+published: true
 ---
+
 *Wednesday, August 13, 2014 from 2:00 PM to 3:00 PM EST
 
 ### Brief description:
