@@ -1,16 +1,18 @@
 ---
-title: Delaware DVR Quality Journey
+title: "Delaware Division of Vocational Rehabilitation's Quality Journey"
 layout: default
-categories:
-- webinars
-- upcoming
+categories: 
+  - webinars
+  - upcoming
+published: true
 ---
+
 *Thursday, October 16 from 1:00- 2:00 pm EST*
 
 
 ### Brief Description:
 
-An overview of DVR’s Quality Project, the key action steps; lessons learned; quality changes implemented.
+This presentation will provide an overview of the Delaware Division of Vocational Rehabilitation’s Quality Project. Key topics to be addressed include: the key action steps; lessons learned; and quality changes implemented.The presenters will discuss:
 - Vendor summit
 - Leadership Retreat
 - Staff survey
