@@ -12,7 +12,7 @@ published: true
 
 ### Brief Description:
 
-This presentation will provide an overview of the Delaware Division of Vocational Rehabilitation’s Quality Project. Key topics to be addressed include: the key action steps; lessons learned; and quality changes implemented.The presenters will discuss the:
+This presentation will provide an overview of the Delaware Division of Vocational Rehabilitation’s Quality Project. Key topics to be addressed include: the key action steps; lessons learned; and quality changes implemented.The presenters will discuss their:
 - Vendor summit
 - Leadership Retreat
 - Staff survey
