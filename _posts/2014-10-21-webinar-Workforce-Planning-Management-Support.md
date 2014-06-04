@@ -1,5 +1,5 @@
 ---
-title: Workforce Planning and Management Support
+title: Workforce Planning and Management Support in Colorado Vocational Rehabilitation
 layout: default
 categories: 
   - webinars
