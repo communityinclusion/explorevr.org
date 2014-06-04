@@ -1,10 +1,12 @@
 ---
-title: Measures of Quality VR Counseling in Kentucky
+title: Developing Measures of Quality VR Counseling in Kentucky Office of Vocational Rehabilitation
 layout: default
-categories:
-- webinars
-- upcoming
+categories: 
+  - webinars
+  - upcoming
+published: true
 ---
+
 *Wednesday, July 30, 2014 from 1:30 PM to 2:30 PM EST*
 
 ###description:
