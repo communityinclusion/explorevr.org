@@ -1,5 +1,5 @@
 ---
-title: Connecticut Rehabilitation Services Strategic Planning Addressing Program Structure and Mission 
+title: Connecticut Rehabilitation Services Strategic Planning&#58; Addressing Program Structure and Mission 
 layout: default
 categories:
 - webinars
