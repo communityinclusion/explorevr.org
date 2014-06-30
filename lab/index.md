@@ -15,25 +15,50 @@ published: true
 <h2>RSA-911 Data</h2>
 <p>The RSA-911 is an administrative dataset that captures a variety of demographic and other data for each individual whose case is closed during the fiscal year. It includes data such as: type of disability, services provided through the Vocational Rehabilitation (VR) and Supported Employment (SE) Programs, providers and costs of services, and employment outcomes.</p>
 
-*All these data sets are derived from RSA911 data set.*
+<div class="panel-group" id="accordion">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+          Downloadable RSA 911 Data Sets
+        </a>
+      </h4>
+    </div>
+    <div id="collapseOne" class="panel-collapse collapse jc_collapse">
+      <div class="panel-body">
+        <p><em>All these data sets are derived from RSA911 data set.</em></p>
 
-[ClosureDuration_08to11.csv](/data/rsa_911/ClosureDuration_08to11.csv)  
-[ClosureDuration_08to11.xls](/data/rsa_911/ClosureDuration_08to11.xls)  
-This file provides data on different measures of time spent by clients of VR agencies from their application to closure, from determination of clients eligibility to their closure and time from determination of IPE to closure.
+        <p><strong><a href="/data/rsa_911/ClosureDuration_08to11.csv">ClosureDuration_08to11.csv</a>  <br />
+        <a href="/data/rsa_911/ClosureDuration_08to11.xls">ClosureDuration_08to11.xls</a>  </strong></p>
+        <p>This file provides data on different measures of time spent by clients of VR agencies from their application to closure, from determination of clients eligibility to their closure and time from determination of IPE to closure.</p>
 
-[ClosureOccupation_08to12.xls](/data/rsa_911/ClosureOccupation_08to12.xls)  
-This file provides data on occupation statistics for all the states and territories for all the clients with employment outcomes. Data is presented in aggregated format for period between 2008 to 2012.
+        <p><strong><a href="/data/rsa_911/ClosureOccupation_08to12.xls">ClosureOccupation_08to12.xls</a>  </strong><br />
+        This file provides data on occupation statistics for all the states and territories for all the clients with employment outcomes. Data is presented in aggregated format for period between 2008 to 2012.</p>
 
-[MajOccTransPercent.xls](/data/rsa_911/MajOccTransPercent.xls)  
-This dataset has statistics on percent of transitiong age youth between 14 to 24 employed in different major occupation types
+        <p><strong><a href="/data/rsa_911/MajOccTransPercent.xls">MajOccTransPercent.xls</a></strong>  <br />
+        This dataset has statistics on percent of transitiong age youth between 14 to 24 employed in different major occupation types</p>
 
-[TransitionAge2012.csv](/data/rsa_911/TransitionAge2012.csv)  
-[TransitionAge2012.xls](/data/rsa_911/TransitionAge2012.xls)  
-This dataset has aggregated data for following metrics on transition age (14 to 24) clients for all the US states and territories -  
+        <p><strong><a href="/data/rsa_911/TransitionAge2012.csv">TransitionAge2012.csv</a><br/>
+        <a href="/data/rsa_911/TransitionAge2012.xls">TransitionAge2012.xls</a> </strong> <br />
+        This dataset has aggregated data for following metrics on transition age (14 to 24) clients for all the US states and territories -  </p>
 
-- Cost of purchased services
-- Total clients served
-- Different calculated fields in ratio and percentages
+
+        <ul>
+        <li> Cost of purchased services</li>
+        <li> Total clients served</li>
+        <li> Different calculated fields in ratio and percentages</li>
+</ul>
+
+      </div>
+    </div>
+</div>
+
+
+
+
+
+
+
 
 <h2>VR Survey Data</h2>
 <p>The Institute for Community Inclusion (ICI) has surveyed a number of vocational rehabilitation (VR) agencies statewide on a quarterly basis to measure levels of VR services provided with respect to employment outcomes, agency partnerships, state demographics and other data points.</p>
