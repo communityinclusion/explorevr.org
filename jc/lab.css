@@ -4,3 +4,8 @@ a {color;#DC9C28;}
 .lab_highlight {border-radius:10px;}
 
 .jc_collapse {color:black;}
+
+
+    img {
+         max-width: 100%;
+    }
