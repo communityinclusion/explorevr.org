@@ -1,6 +1,6 @@
 ---
 title: About
-author: admin
+author: 
 layout: default
 ---
 
