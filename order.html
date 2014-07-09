@@ -1,0 +1,15 @@
+---
+author: admin
+layout: post
+title: Order of Selection
+---
+
+{% for post in site.categories.order %}
+
+
+    <h3>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </h3>
+    
+
+{% endfor %}
