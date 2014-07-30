@@ -18,4 +18,4 @@ This webinar will describe the process of working with RTAC to develop measures 
 Jonathan White, District Office Manager  
 Erin Hopper, Administrator
 
-<a class="btn btn-primary btn-lg" role="button" href="https://events-na6.adobeconnect.com/content/connect/c1/839220836/en/events/event/shared/1149932032/event_registration.html?sco-id=1235731585&_charset_=utf-8">Register here</a>
+<a class="btn btn-primary btn-lg" role="button" href="http://connectpro97884399.adobeconnect.com/p53azy32jtj/">View Archived Webinar here</a>

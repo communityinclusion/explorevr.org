@@ -17,4 +17,4 @@ Kathy Kelly, Human Resources Manager
 Bert Schulte, Coordinator of Client Services
 
 
-<a class="btn btn-primary btn-lg" role="button" href="https://events-na6.adobeconnect.com/content/connect/c1/839220836/en/events/event/shared/1149932032/event_registration.html?sco-id=1235269706&_charset_=utf-8">Register here</a>
+<a class="btn btn-primary btn-lg" role="button" href="http://connectpro97884399.adobeconnect.com/p3fr5p53agw/">View Archived Webinar here</a>
