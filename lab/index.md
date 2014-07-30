@@ -64,3 +64,14 @@ published: true
 <p>The Institute for Community Inclusion (ICI) has surveyed a number of vocational rehabilitation (VR) agencies statewide on a quarterly basis to measure levels of VR services provided with respect to employment outcomes, agency partnerships, state demographics and other data points.</p>
 
 <h2>Data Analyses</h2><p>The Institute for Community Inclusion (ICI) has generated a number of data analyses to increase knowledge about the public VR program and its role within the larger employment and disability service system within and across states and territories. </p>
+
+<h2>Analysis</h2>
+{% for post in site.categories.home-ana %}
+
+
+    <h4>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </h4>
+
+
+{% endfor %}
