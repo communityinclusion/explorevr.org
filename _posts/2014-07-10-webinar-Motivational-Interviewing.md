@@ -3,7 +3,7 @@ title: Motivational Interviewing &#58; An Organizational Improvement Driver for 
 layout: default
 categories:
 - webinars
-- upcoming
+- archived
 ---
 *Thursday, July 10, 2014 from 2:00 PM to 3:00 PM EST*
 

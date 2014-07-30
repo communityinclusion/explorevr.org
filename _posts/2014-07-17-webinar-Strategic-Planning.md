@@ -3,7 +3,7 @@ title: Connecticut Rehabilitation Services Strategic Planning&#58; Addressing Pr
 layout: default
 categories:
 - webinars
-- upcoming
+- archived
 ---
 
 *Thursday, July 17, 2014 from 2:00 PM to 3:00 PM EST*
