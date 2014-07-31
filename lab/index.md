@@ -65,7 +65,6 @@ published: true
 
 <h2>Data Analyses</h2><p>The Institute for Community Inclusion (ICI) has generated a number of data analyses to increase knowledge about the public VR program and its role within the larger employment and disability service system within and across states and territories. </p>
 
-<h2>Analysis</h2>
 {% for post in site.categories.home-ana %}
 
 
