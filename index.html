@@ -110,14 +110,11 @@ published: true
         <div class="col-md-6">
 
 
-
-
-
-          <h2>Training & TA</h2>
+      <h2>Training & TA</h2>
           <h3>Upcoming Webinars</h3>
           <h4>RTAC INNOVATION WEBINAR SERIES</h4>
 
-          {% for post in site.categories.upcoming reversed %}
+          {% for post in site.categories.upcoming reversed limit:2 %}
 
 
               <h4>
