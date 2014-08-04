@@ -1,5 +1,5 @@
 ---
-title: Ratio of Transition Age and Other Clients (2012)
+title: "Servicing Transition-Age Youth: How much money are states spending?"
 layout: post
 categories: 
   - "home-ana"
@@ -7,8 +7,18 @@ categories:
 published: true
 ---
 
-Transition age (14-24) is an important age group for VR agencies. The following graphs present statistics on how different state vocational rehabilitation agencies are faring in terms of the number of transition age clients they are servicing in comparison to other clients (non-transition). Similarly using RSA 911 data, the second graph shows how much each state spends in terms of purchased services on transition age clients in comparison to non-transition clients. 
+Transition age (14-24) is an important age group for VR agencies. The following graphs present statistics on how different state vocational rehabilitation agencies are faring in terms of the number of transition age clients they are servicing in comparison to other clients (non-transition) and the amount of money they are spending on transition-age youth. 
+
+The first analysis presents the dollar amount that state VR agencies spend on transition-age youth clients in comparision to all other clients. The second analyses will present the percentage of total money spent on transition age clients of purchased services for all VR clients. The third analysis presents the ratio of money spent on transition-age youth clients in comparison to all other clients. 
+
+What is the dollar amount that state VR agencies are spending on transition-age youth?
+
+What is the percentage of total money spent on purchasing services that state VR agencies are spending on transition-age youth?
 
 <script type='text/javascript' src='http://public.tableausoftware.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 831px; height: 838px;'><noscript><a href='#'><img alt='Ratio_TAY ' src='http:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;TA&#47;TAY&#47;Ratio_TAY&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='831' height='838' style='display:none;'><param name='host_url' value='http%3A%2F%2Fpublic.tableausoftware.com%2F' /> <param name='site_root' value='' /><param name='name' value='TAY&#47;Ratio_TAY' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='http:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;TA&#47;TAY&#47;Ratio_TAY&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div><div style='width:831px;height:22px;padding:0px 10px 0px 0px;color:black;font:normal 8pt verdana,helvetica,arial,sans-serif;'><div style='float:right; padding-right:8px;'><a href='http://www.tableausoftware.com/public/about-tableau-products?ref=http://public.tableausoftware.com/views/TAY/Ratio_TAY' target='_blank'>Learn About Tableau</a></div></div>
+
+What is the ratio of dollar value that state VR agencies are spending on transition age youth clients in comparison to all other VR clients?
+
+Ratio = dollar amount spent on transition-age clients/ dollar amount spent on all other clients
 
 <script type='text/javascript' src='http://public.tableausoftware.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 831px; height: 838px;'><noscript><a href='#'><img alt='Ratio_TAY_Clients ' src='http:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;TA&#47;TAY&#47;Ratio_TAY_Clients&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='831' height='838' style='display:none;'><param name='host_url' value='http%3A%2F%2Fpublic.tableausoftware.com%2F' /> <param name='site_root' value='' /><param name='name' value='TAY&#47;Ratio_TAY_Clients' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='http:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;TA&#47;TAY&#47;Ratio_TAY_Clients&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div><div style='width:831px;height:22px;padding:0px 10px 0px 0px;color:black;font:normal 8pt verdana,helvetica,arial,sans-serif;'><div style='float:right; padding-right:8px;'><a href='http://www.tableausoftware.com/public/about-tableau-products?ref=http://public.tableausoftware.com/views/TAY/Ratio_TAY_Clients' target='_blank'>Learn About Tableau</a></div></div>
