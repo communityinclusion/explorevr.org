@@ -115,7 +115,7 @@ published: true
           <h3>Upcoming Webinars</h3>
           <h4>RTAC INNOVATION WEBINAR SERIES</h4>
 
-          {% for post in site.categories.upcoming reversed limit:2 %}
+          {% for post in site.categories.upcoming reversed offset:5 limit:2 %}
 
 
               <h4>
