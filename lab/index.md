@@ -4,7 +4,7 @@ author: admin
 layout: lab
 published: true
 ---
-<div class="bg-primary lab_highlight container">
+<div class="bg-primary lab_highlight  grapher2">
 <h2>The Lab</h2>
 <p> This will be special section which will be geared towards the researchers who are working in the field of disability or VR. This section will house mainly two types of content:</p>
 <ul>
