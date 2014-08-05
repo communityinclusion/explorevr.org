@@ -1,10 +1,9 @@
 ---
-title: Public VR&#058; The <em>Go&#45;To</em> Organization for Transition&#45;Age Youth with Disabilities
+title: "Public VR: The <em>Go-To</em> Organization for Transition-Age Youth with Disabilities"
 layout: default
 categories: experts
 published: true
-authors:
- -Robert Burns
+authors: "-Robert Burns"
 ---
 
 Robert Burns  
@@ -20,10 +19,10 @@ Notwithstanding all the strengths, capacities and success demonstrated by the na
 
 My experience as a VR transition counselor, district manager, administrator, and state director in VR, and my work nationally in recent years with ICI/UMass Boston has given me a “wide lens” on VR and services to transition-age youth.  My work in Maryland helped lead that SVRA to adopt the Maryland Seamless Transition Collaborative (2008-2012).  This systems change project worked to build statewide service delivery capacities and implemented a constellation of services that included the following components:
 
-1.     Student Engagement at least two years prior to graduation to assure a “connectedness” with and investment by the student in his/her career exploration/planning and experiences; building and sustaining an effective counseling relationship with the student; utilizing strength-based career planning.
-2.     Work-Based Experiences prior to graduation from high school including information interviews, industry tours, job shadowing, internships and paid employment.  A core concept of the program was to give all students an opportunity for a paid work experience prior to graduation.
-3.     Inclusive employment and/or post-secondary education – inclusive means community-based, integrated and, for employment, paid at the prevailing wage but no less that minimum wage.
-4.     Ensuring the student’s family is an active and positive partner; the parents need to understand and be included in the transition process and support the service strategies and goal(s).
-5.     Supporting the student’s social connectedness and overall health; research consistently demonstrates that an individual’s health (both somatic and psychological) can be negatively affected by not having social connections which can result feelings of loneliness and isolation; school-based activities, after-school clubs, religious and community service projects are examples of opportunities to connect the student socially.
-6.     Benefits planning and work incentives; an important example in this domain is SSA’s Student Earned Income Exclusion that permits the student to earning $1,750 per quarter and $7,060 per year without a reduction in SSI cash benefits.  http://www.socialsecurity.gov/redbook/
-7.     Systems Integration – An Executive Order was issued establishing the Governor’s Interagency Transition Council that brought together the key agencies (VR, Special Education, Developmental Disabilities, Mental Health, Workforce, Social Services, etc.) in order to build a collaborative and seamless service delivery. http://www.mdtransition.org/
+1.     **Student Engagement** at least two years prior to graduation to assure a “connectedness” with and investment by the student in his/her career exploration/planning and experiences; building and sustaining an effective counseling relationship with the student; utilizing strength-based career planning.
+2.     **Work-Based Experiences prior to graduation** from high school including information interviews, industry tours, job shadowing, internships and paid employment.  A core concept of the program was to give all students an opportunity for a paid work experience prior to graduation.
+3.     **Inclusive employment and/or post-secondary education** – inclusive means community-based, integrated and, for employment, paid at the prevailing wage but no less that minimum wage.
+4.     **Ensuring the student’s family is an active and positive partner**; the parents need to understand and be included in the transition process and support the service strategies and goal(s).
+5.     **Supporting the student’s social connectedness and overall health;** research consistently demonstrates that an individual’s health (both somatic and psychological) can be negatively affected by not having social connections which can result feelings of loneliness and isolation; school-based activities, after-school clubs, religious and community service projects are examples of opportunities to connect the student socially.
+6.     **Benefits planning and work incentives;** an important example in this domain is SSA’s Student Earned Income Exclusion that permits the student to earning $1,750 per quarter and $7,060 per year without a reduction in SSI cash benefits.  http://www.socialsecurity.gov/redbook/
+7.     **Systems Integration** – An Executive Order was issued establishing the Governor’s Interagency Transition Council that brought together the key agencies (VR, Special Education, Developmental Disabilities, Mental Health, Workforce, Social Services, etc.) in order to build a collaborative and seamless service delivery. http://www.mdtransition.org/
