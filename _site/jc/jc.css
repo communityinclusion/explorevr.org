@@ -1,6 +1,6 @@
 .grapher {background-image: url(/img/bg_chart_image.png); background-size:100%; background-color:#186FBD; color:white;}
 
-.grapher2 {background-image: url(/img/bg_chart_image2.png);  background-color:#186FBD; color:white; padding:1em;} 
+.grapher2 {background-image: url(/img/bg_chart_image2.png);  background-color:#186FBD; color:white; padding:1em;}
 .spotlight {background-color: #343434; background-size:100%;  color:white;}
 .spotlight a {color:#DC9C28;}
 
@@ -13,3 +13,5 @@ img {
 }
 
 .jc li {padding: .5em;}
+
+footer{font-size:smaller;}
