@@ -9,7 +9,7 @@ published: true
 
 Transition age (14-24) is an important age group for VR agencies. The following graphs present statistics on how different state vocational rehabilitation agencies are faring in terms of the number of transition age clients they are servicing in comparison to other clients (non-transition) and the amount of money they are spending on transition-age youth. 
 
-The first analysis presents the dollar amount that state VR agencies spend on transition-age youth clients in comparision to all other clients. The second analyses will present the percentage of total money spent on transition age clients of purchased services for all VR clients. The third analysis presents the ratio of money spent on transition-age youth clients in comparison to all other clients. 
+The first analysis presents the dollar amount that state VR agencies spend on transition-age youth clients in comparision to all other clients. The second analysis presents the percentage of total money spent on transition age clients of purchased services for all VR clients. The third analysis presents the ratio of money spent on transition-age youth clients in comparison to all other clients. 
 
 ### What is the dollar amount that state VR agencies are spending on transition-age youth?
 
