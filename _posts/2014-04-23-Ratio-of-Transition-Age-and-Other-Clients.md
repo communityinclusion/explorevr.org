@@ -1,5 +1,5 @@
 ---
-title: "Servicing Transition-Age Youth: How much money are states spending?"
+title: "Serving Transition-Age Youth: How much money are states spending?"
 layout: post
 categories: 
   - "home-ana"
