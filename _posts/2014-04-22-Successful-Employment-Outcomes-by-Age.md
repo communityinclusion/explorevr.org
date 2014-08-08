@@ -8,6 +8,7 @@ published: true
 ---
 
 This chart displays successful employment outcomes by age at closure between the years of 2008 and 2012. Hover over bars to see number of employment outcomes across major occupation types for ages 14 -24 and 25-60. Click the dropdown menu to select data for years 2008-2012.
+
 For the purposes of clarity, this chart is broken into two sections. A separate chart is provided for occupation types that generally see less number of employment outcomes. We have taken 600 as a threshold value. Therefore in the second chart, only the occupation types, which generally employ 600 or less VR clients are included. 
 
 
