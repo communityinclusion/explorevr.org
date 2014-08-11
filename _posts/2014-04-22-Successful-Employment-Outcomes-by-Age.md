@@ -2,6 +2,7 @@
 title: "Successful Employment Outcomes by Age (2008-2012)"
 layout: post
 categories: 
+  - outcomes
   - "home-ana"
   - analysis
 published: true
