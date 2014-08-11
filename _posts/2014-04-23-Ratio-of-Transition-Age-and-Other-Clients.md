@@ -2,6 +2,7 @@
 title: "Serving Transition-Age Youth: How much money are states spending?"
 layout: post
 categories: 
+  - transition
   - "home-ana"
   - analysis
 published: true
