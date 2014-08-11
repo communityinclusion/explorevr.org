@@ -16,6 +16,8 @@ This chart displays successful employment outcomes by gender at closure between 
 
 ### Following table displays the data used for the chart made above -
 
+
+
 <!-- Table generated in R 3.0.3 by googleVis 0.5.3 package -->
 <!-- Mon Aug 11 15:20:39 2014 -->
 
