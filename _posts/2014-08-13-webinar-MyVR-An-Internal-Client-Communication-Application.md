@@ -3,7 +3,7 @@ title: "MyVR - An Internal Client Communication Application for Nebraska Vocatio
 layout: default
 categories: 
   - webinars
-  - upcoming
+  - archived
 published: true
 ---
 

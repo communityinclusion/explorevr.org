@@ -14,6 +14,6 @@ This dataset has statistics on percent of transitiong age youth between 14 to 24
 TransitionAge2012.csv
 TransitionAge2012.xls
 This dataset has aggregated data for following metrics on transition age (14 to 24) clients for all the US states and territories -
-• Cost of purchased services
-• Total clients served
-• Different calculated fields in ratio and percentages
+- Cost of purchased services
+- Total clients served
+- Different calculated fields in ratio and percentages

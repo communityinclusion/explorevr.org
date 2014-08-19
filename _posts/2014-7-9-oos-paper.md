@@ -1,6 +1,5 @@
 ---
-title: 'A DESCRIPTION AND ANALYSIS OF STATE POLICY FRAMEWORKS REGARDING ORDER OF SELECTION
-UNDER TITLE I OF THE REHABILITATION ACT'
+title: 'A Description and Analysis of State Policy Frameworks Regarding Order of Selection Under Title I of the Rehabilitation Act'
 layout: post
 categories:
   - order
