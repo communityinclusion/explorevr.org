@@ -22,6 +22,8 @@ This chart displays successful employment outcomes by gender at closure between 
 <!-- Mon Aug 11 15:20:39 2014 -->
 
 
+<!-- Table generated in R 3.0.3 by googleVis 0.5.3 package -->
+<!-- Mon Aug 11 15:20:39 2014 -->
 <!-- jsHeader -->
 <script type="text/javascript">
  
@@ -826,4 +828,9 @@ callbacks.shift()();
 <div id="TableID3279299532ef" 
   style="width: 600; height: 500;">
 </div>
- 
+ <div><span>Data: gender &#8226; Chart ID: <a href="Chart_TableID3279299532ef.html">TableID3279299532ef</a> &#8226; <a href="https://github.com/mages/googleVis">googleVis-0.5.3</a></span><br /> 
+<!-- htmlFooter -->
+<span> 
+  R version 3.0.3 (2014-03-06) 
+  &#8226; <a href="https://developers.google.com/terms/">Google Terms of Use</a> &#8226; <a href="https://google-developers.appspot.com/chart/interactive/docs/gallery/table">Documentation and Data Policy</a>
+</span></div>
