@@ -34,10 +34,20 @@
       <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/apple-touch-icon-72-precomposed.png">
                     <link rel="apple-touch-icon-precomposed" href="/ico/apple-touch-icon-57-precomposed.png">
                                    <link rel="shortcut icon" href="/ico/favicon.png">
+<style type="text/css">
+
+/* Move down content because we have a fixed navbar that is 50px tall */
+                               body {
+                                 padding-top: 50px;
+                                 padding-bottom: 20px;
+                               }
+
+</style>
   </head>
 
   <body>
 
+{% include menu.html %}
 
 
 <div class="container">
