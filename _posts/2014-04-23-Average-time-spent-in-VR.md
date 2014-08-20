@@ -26,17 +26,101 @@ Data for different agency types is presented in the chart  for years from 2008 t
 The table below presents the average number of months spent in between application to closure, eligibility determination to closure and IPE to closure. 
 
 
-| Year 	| Row Labels 	| Application to Closure 	| Eligibility to Closure 	| IPE to Closure 	|
-|------	|------------	|------------------------	|------------------------	|----------------	|
-| 2008 	| Blind      	| 35.6                   	| 34.5                   	| 31.3           	|
-| 2008 	| Combined   	| 29.5                   	| 28.1                   	| 24.7           	|
-| 2008 	| General    	| 26.1                   	| 24.8                   	| 20.4           	|
-| 2009 	| Blind      	| 32.3                   	| 31.3                   	| 28.4           	|
-| 2009 	| Combined   	| 29.9                   	| 28.4                   	| 25.2           	|
-| 2009 	| General    	| 25.9                   	| 24.7                   	| 20.7           	|
-| 2010 	| Blind      	| 34.6                   	| 33.7                   	| 30.7           	|
-| 2010 	| Combined   	| 30.1                   	| 28.5                   	| 25.1           	|
-| 2010 	| General    	| 25.3                   	| 24.1                   	| 20.2           	|
-| 2011 	| Blind      	| 32.8                   	| 31.9                   	| 29.1           	|
-| 2011 	| Combined   	| 29.8                   	| 28.3                   	| 24.8           	|
-| 2011 	| General    	| 25.5                   	| 24.3                   	| 20.4           	|
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-031e">Year</th>
+    <th class="tg-031e">Row Labels</th>
+    <th class="tg-031e">Application to Closure</th>
+    <th class="tg-031e">Eligibility to Closure</th>
+    <th class="tg-031e">IPE to Closure</th>
+  </tr>
+  <tr>
+    <td class="tg-031e">2008</td>
+    <td class="tg-031e">Blind</td>
+    <td class="tg-031e">35.6</td>
+    <td class="tg-031e">34.5</td>
+    <td class="tg-031e">31.3</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">2008</td>
+    <td class="tg-031e">Combined</td>
+    <td class="tg-031e">29.5</td>
+    <td class="tg-031e">28.1</td>
+    <td class="tg-031e">24.7</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">2008</td>
+    <td class="tg-031e">General</td>
+    <td class="tg-031e">26.1</td>
+    <td class="tg-031e">24.8</td>
+    <td class="tg-031e">20.4</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">2009</td>
+    <td class="tg-031e">Blind</td>
+    <td class="tg-031e">32.3</td>
+    <td class="tg-031e">31.3</td>
+    <td class="tg-031e">28.4</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">2009</td>
+    <td class="tg-031e">Combined</td>
+    <td class="tg-031e">29.9</td>
+    <td class="tg-031e">28.4</td>
+    <td class="tg-031e">25.2</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">2009</td>
+    <td class="tg-031e">General</td>
+    <td class="tg-031e">25.9</td>
+    <td class="tg-031e">24.7</td>
+    <td class="tg-031e">20.7</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">2010</td>
+    <td class="tg-031e">Blind</td>
+    <td class="tg-031e">34.6</td>
+    <td class="tg-031e">33.7</td>
+    <td class="tg-031e">30.7</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">2010</td>
+    <td class="tg-031e">Combined</td>
+    <td class="tg-031e">30.1</td>
+    <td class="tg-031e">28.5</td>
+    <td class="tg-031e">25.1</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">2010</td>
+    <td class="tg-031e">General</td>
+    <td class="tg-031e">25.3</td>
+    <td class="tg-031e">24.1</td>
+    <td class="tg-031e">20.2</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">2011</td>
+    <td class="tg-031e">Blind</td>
+    <td class="tg-031e">32.8</td>
+    <td class="tg-031e">31.9</td>
+    <td class="tg-031e">29.1</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">2011</td>
+    <td class="tg-031e">Combined</td>
+    <td class="tg-031e">29.8</td>
+    <td class="tg-031e">28.3</td>
+    <td class="tg-031e">24.8</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">2011</td>
+    <td class="tg-031e">General</td>
+    <td class="tg-031e">25.5</td>
+    <td class="tg-031e">24.3</td>
+    <td class="tg-031e">20.4</td>
+  </tr>
+</table>
