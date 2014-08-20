@@ -27,7 +27,7 @@ The table below presents the average number of months spent in between applicati
 
 
 | Year 	| Row Labels 	| Application to Closure 	| Eligibility to Closure 	| IPE to Closure 	|
-|:------:	|:------------:	|:------------------------:	|:------------------------:	|:----------------:	|
+|------	|------------	|------------------------	|------------------------	|----------------	|
 | 2008 	| Blind      	| 35.6                   	| 34.5                   	| 31.3           	|
 | 2008 	| Combined   	| 29.5                   	| 28.1                   	| 24.7           	|
 | 2008 	| General    	| 26.1                   	| 24.8                   	| 20.4           	|
