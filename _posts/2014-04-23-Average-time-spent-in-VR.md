@@ -26,17 +26,17 @@ Data for different agency types is presented in the chart  for years from 2008 t
 The table below presents the average number of months spent in between application to closure, eligibility determination to closure and IPE to closure. 
 
 
-| Year | 	Agency Type |Application to Closure | Eligibility to Closure | IPE to Closure |
-|------|------------|----------------------|------------------------|----------------|
-| 2008 | 	Blind      | 35.6                   | 34.5                   | 31.3           |
-| 2008 | 	Combined   | 29.5                   | 28.1                   | 24.7           |
-| 2008 | 	General    | 26.1                   | 24.8                   | 20.4           |
-| 2009 | 	Blind      | 32.3                   | 31.3                   | 28.4           |
-| 2009 | 	Combined   | 29.9                   | 28.4                   | 25.2           |
-| 2009 | 	General    | 25.9                   | 24.7                   | 20.7           |
-| 2010 | 	Blind      | 34.6                   | 33.7                   | 30.7           |
-| 2010 | 	Combined   | 30.1                   | 28.5                   | 25.1           |
-| 2010 | 	General    | 25.3                   | 24.1                   | 20.2           |
-| 2011 | 	Blind      | 32.8                   | 31.9                   | 29.1           |
-| 2011 | 	Combined   | 29.8                   | 28.3                   | 24.8           |
-| 2011 | 	General    | 25.5                   | 24.3                   | 20.4           |
+| Year 	| Row Labels 	| Application to Closure 	| Eligibility to Closure 	| IPE to Closure 	|
+|------	|------------	|------------------------	|------------------------	|----------------	|
+| 2008 	| Blind      	| 35.6                   	| 34.5                   	| 31.3           	|
+| 2008 	| Combined   	| 29.5                   	| 28.1                   	| 24.7           	|
+| 2008 	| General    	| 26.1                   	| 24.8                   	| 20.4           	|
+| 2009 	| Blind      	| 32.3                   	| 31.3                   	| 28.4           	|
+| 2009 	| Combined   	| 29.9                   	| 28.4                   	| 25.2           	|
+| 2009 	| General    	| 25.9                   	| 24.7                   	| 20.7           	|
+| 2010 	| Blind      	| 34.6                   	| 33.7                   	| 30.7           	|
+| 2010 	| Combined   	| 30.1                   	| 28.5                   	| 25.1           	|
+| 2010 	| General    	| 25.3                   	| 24.1                   	| 20.2           	|
+| 2011 	| Blind      	| 32.8                   	| 31.9                   	| 29.1           	|
+| 2011 	| Combined   	| 29.8                   	| 28.3                   	| 24.8           	|
+| 2011 	| General    	| 25.5                   	| 24.3                   	| 20.4           	|
