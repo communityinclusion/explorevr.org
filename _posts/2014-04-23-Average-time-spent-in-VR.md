@@ -27,24 +27,26 @@ The table below presents the average number of months spent in between applicati
 
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;border-top-width:1px;border-bottom-width:1px;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;border-top-width:1px;border-bottom-width:1px;}
+.tg .tg-wr85{font-weight:bold;background-color:#efefef;text-align:center}
+.tg .tg-4eph{background-color:#f9f9f9}
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-031e">Year</th>
-    <th class="tg-031e">Row Labels</th>
-    <th class="tg-031e">Application to Closure</th>
-    <th class="tg-031e">Eligibility to Closure</th>
-    <th class="tg-031e">IPE to Closure</th>
+    <th class="tg-wr85">Year</th>
+    <th class="tg-wr85">Row Labels</th>
+    <th class="tg-wr85">Application to Closure</th>
+    <th class="tg-wr85">Eligibility to Closure</th>
+    <th class="tg-wr85">IPE to Closure</th>
   </tr>
   <tr>
-    <td class="tg-031e">2008</td>
-    <td class="tg-031e">Blind</td>
-    <td class="tg-031e">35.6</td>
-    <td class="tg-031e">34.5</td>
-    <td class="tg-031e">31.3</td>
+    <td class="tg-4eph">2008</td>
+    <td class="tg-4eph">Blind</td>
+    <td class="tg-4eph">35.6</td>
+    <td class="tg-4eph">34.5</td>
+    <td class="tg-4eph">31.3</td>
   </tr>
   <tr>
     <td class="tg-031e">2008</td>
@@ -54,11 +56,11 @@ The table below presents the average number of months spent in between applicati
     <td class="tg-031e">24.7</td>
   </tr>
   <tr>
-    <td class="tg-031e">2008</td>
-    <td class="tg-031e">General</td>
-    <td class="tg-031e">26.1</td>
-    <td class="tg-031e">24.8</td>
-    <td class="tg-031e">20.4</td>
+    <td class="tg-4eph">2008</td>
+    <td class="tg-4eph">General</td>
+    <td class="tg-4eph">26.1</td>
+    <td class="tg-4eph">24.8</td>
+    <td class="tg-4eph">20.4</td>
   </tr>
   <tr>
     <td class="tg-031e">2009</td>
@@ -68,11 +70,11 @@ The table below presents the average number of months spent in between applicati
     <td class="tg-031e">28.4</td>
   </tr>
   <tr>
-    <td class="tg-031e">2009</td>
-    <td class="tg-031e">Combined</td>
-    <td class="tg-031e">29.9</td>
-    <td class="tg-031e">28.4</td>
-    <td class="tg-031e">25.2</td>
+    <td class="tg-4eph">2009</td>
+    <td class="tg-4eph">Combined</td>
+    <td class="tg-4eph">29.9</td>
+    <td class="tg-4eph">28.4</td>
+    <td class="tg-4eph">25.2</td>
   </tr>
   <tr>
     <td class="tg-031e">2009</td>
@@ -82,11 +84,11 @@ The table below presents the average number of months spent in between applicati
     <td class="tg-031e">20.7</td>
   </tr>
   <tr>
-    <td class="tg-031e">2010</td>
-    <td class="tg-031e">Blind</td>
-    <td class="tg-031e">34.6</td>
-    <td class="tg-031e">33.7</td>
-    <td class="tg-031e">30.7</td>
+    <td class="tg-4eph">2010</td>
+    <td class="tg-4eph">Blind</td>
+    <td class="tg-4eph">34.6</td>
+    <td class="tg-4eph">33.7</td>
+    <td class="tg-4eph">30.7</td>
   </tr>
   <tr>
     <td class="tg-031e">2010</td>
@@ -96,11 +98,11 @@ The table below presents the average number of months spent in between applicati
     <td class="tg-031e">25.1</td>
   </tr>
   <tr>
-    <td class="tg-031e">2010</td>
-    <td class="tg-031e">General</td>
-    <td class="tg-031e">25.3</td>
-    <td class="tg-031e">24.1</td>
-    <td class="tg-031e">20.2</td>
+    <td class="tg-4eph">2010</td>
+    <td class="tg-4eph">General</td>
+    <td class="tg-4eph">25.3</td>
+    <td class="tg-4eph">24.1</td>
+    <td class="tg-4eph">20.2</td>
   </tr>
   <tr>
     <td class="tg-031e">2011</td>
@@ -110,11 +112,11 @@ The table below presents the average number of months spent in between applicati
     <td class="tg-031e">29.1</td>
   </tr>
   <tr>
-    <td class="tg-031e">2011</td>
-    <td class="tg-031e">Combined</td>
-    <td class="tg-031e">29.8</td>
-    <td class="tg-031e">28.3</td>
-    <td class="tg-031e">24.8</td>
+    <td class="tg-4eph">2011</td>
+    <td class="tg-4eph">Combined</td>
+    <td class="tg-4eph">29.8</td>
+    <td class="tg-4eph">28.3</td>
+    <td class="tg-4eph">24.8</td>
   </tr>
   <tr>
     <td class="tg-031e">2011</td>
