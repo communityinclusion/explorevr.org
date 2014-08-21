@@ -9,7 +9,7 @@ published: true
 
 **Description:** This chart displays average weekly earnings and work hours for major occupation types at employment closure. 
 
-**Data Source:** RSA 911
+**Data Source:** RSA-911
 
 **Instructions:** Place your mouse over bars to see average weekly earnings at closure and on dots to find work hours. Click the dropdown menu to select data for years 2008-2012.
 This chart has two x axes. The x axis at top displays the average number of hours worked at closure for a given occupation type and the x axis at the bottom refers to the average weekly earnings for a given occupation. 
