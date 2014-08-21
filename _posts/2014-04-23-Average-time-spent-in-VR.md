@@ -1,5 +1,5 @@
 ---
-title: "Average time spent in VR (2008-2011)"
+title: "Average time clients spent in VR system (2008-2011)"
 layout: post
 categories: 
   - "home-ana"
