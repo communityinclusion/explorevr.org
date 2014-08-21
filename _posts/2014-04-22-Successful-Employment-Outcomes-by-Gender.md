@@ -7,7 +7,9 @@ categories:
 published: true
 ---
 
-**Description:** This chart displays successful employment outcomes by gender at closure between the years of 2008 and 2012. While 'Office and Administrative Support' occupations employed the most females in the year 2009, 'Military Specific' occupations employed the least number of females. In comparision, by the year 2012, while 'Office and Administrative Support' remained the occupation where most females were employed, the least number of females were employed in 'Architecture and Engineer' occupations.    
+**Description:** This chart displays successful employment outcomes by gender at closure between the years of 2008 and 2012. While 'Office and Administrative Support' occupations employed the most females in the year 2009, 'Military Specific' occupations employed the least number of females. In comparision, by the year 2012, while 'Office and Administrative Support' remained the occupation where most females were employed, the least number of females were employed in 'Architecture and Engineer' occupations.   
+
+**Data Source:** RSA-911
 
 **Instructions:**  Place your mouse over the bars to see the number of employment outcomes across major occupation types for males and females. Click the left and right arrows to view data for years 2008-2012.
 
