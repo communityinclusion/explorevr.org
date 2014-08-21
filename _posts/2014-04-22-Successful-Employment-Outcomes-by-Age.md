@@ -8,7 +8,9 @@ categories:
 published: true
 ---
 
-This chart displays successful employment outcomes by age at closure between the years of 2008 and 2012. Hover over bars to see number of employment outcomes across major occupation types for ages 14 -24 and 25-64. Click the dropdown menu to select data for years 2008-2012.
+**Description:** This chart displays successful employment outcomes by age at closure between the years of 2008 and 2012. 
+
+**Instructions:** Place your mouse on the bars to see number of employment outcomes across major occupation types for ages 14 -24 and 25-64. Click the right and left arrows to view data for years 2008-2012.
 
 
 
