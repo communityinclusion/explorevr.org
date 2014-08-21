@@ -22,6 +22,8 @@ The chart displays three measures:
 - Average number of months clients spent from eligibility determination to closure
 - Average number of months clients spent from IPE to closure
 
+**Population:** All VR clients
+
 **Data Source:** RSA-911
 
 **Instructions:**
