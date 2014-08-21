@@ -7,7 +7,9 @@ categories:
 published: true
 ---
 
-**Description:** This table displays successful employment outcomes for major occupation types by different agency types between the years of 2008 and 2012. 
+**Description:** This table displays successful employment outcomes for major occupation types by different agency types between the years of 2008 and 2012.
+
+Data Source: RSA-911
 
 **Instructions:** Click the dropdown menu to select data for years 2008-2012.
 
