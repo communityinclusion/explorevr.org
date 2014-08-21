@@ -12,8 +12,8 @@ A number of factors can affect the duration of time a client spends in the vocat
 
 The chart presents data for all three types of VR agencies: 
 
-- General: serving clients with all except visual disabilities 
-- Blind: exclusively serving clients with visual disabilities
+- General: serving all VR clients, with exception of visually-impaired clients
+- Blind: serving blind and visually impaired clients
 - Combined: serving all VR clients
 
 The chart displays three measures:
