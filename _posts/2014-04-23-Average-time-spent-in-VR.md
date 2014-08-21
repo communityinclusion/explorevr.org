@@ -22,6 +22,8 @@ The chart displays three measures:
 - Average number of months clients spent from eligibility determination to closure
 - Average number of months clients spent from IPE to closure
 
+**Data Source:** RSA-911
+
 **Instructions:**
 By default, the chart displays the national average for 2008. Customize this data by selecting your preferred state. Navigate through different years by clicking the right and left arrow buttons in the visualization. 
 
