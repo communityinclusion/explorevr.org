@@ -7,21 +7,23 @@ categories:
 published: true
 ---
 
-Variation in type of clients that an agency majorly serves affects the duration a client spends in vocational rehabilitation process. Following chart highlights the the national average time (in months) that clients spend in different type of agencies. 
-We are presenting data for three type of agencies: 
+**Description:**
+A number of factors can affect the duration of time a client spends in the vocational rehabilitation process. The following chart highlights the the national average time (in months) that clients spent in VR agencies from 2008 to 2011.
 
-- General: Agencies that serve clients with all kind of disabilities but not those with visual disabilities
-- Blind: These agencies serve clients with visual disabilities
-- Combined: These agencies serve all type of clients, i.e., with or without visual disabilities
+The chart presents data for all three types of VR agencies: 
 
-Three metrics that are measured in the chart are:
+- General: serving clients with all except visual disabilities 
+- Blind: exclusively serving clients with visual disabilities
+- Combined: serving all VR clients
 
-- Average number of months spent from application to closure
-- Average number of months spent from eligibility determination to closure
-- Average number of months spent from IPE to closure
-Data for different agency types is presented in the chart  for years from 2008 to 2011. 
+The chart displays three measures:
 
-By default, the chart displays the national average for 2008. User can select the preferred state from within the visualization and also navigate through different years by pressing on the arrow buttons in the visualization. 
+- Average number of months clients spent from application to closure
+- Average number of months clients spent from eligibility determination to closure
+- Average number of months clients spent from IPE to closure
+
+**Instructions**
+By default, the chart displays the national average for 2008. Customize this data by selecting your preferred state. Navigate through different years by clicking the right and left arrow buttons in the visualization. 
 
 <script type='text/javascript' src='https://public.tableausoftware.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 724px; height: 789px;'><noscript><a href='#'><img alt='DurationState ' src='https:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;RS&#47;RSA911_Duration&#47;DurationState&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='724' height='789' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableausoftware.com%2F' /> <param name='site_root' value='' /><param name='name' value='RSA911_Duration&#47;DurationState' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;RS&#47;RSA911_Duration&#47;DurationState&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div><div style='width:724px;height:22px;padding:0px 10px 0px 0px;color:black;font:normal 8pt verdana,helvetica,arial,sans-serif;'><div style='float:right; padding-right:8px;'><a href='http://www.tableausoftware.com/public/about-tableau-products?ref=https://public.tableausoftware.com/views/RSA911_Duration/DurationState' target='_blank'>Learn About Tableau</a></div></div>
 
