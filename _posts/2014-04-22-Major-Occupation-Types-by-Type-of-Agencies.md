@@ -9,6 +9,8 @@ published: true
 
 **Description:** This table displays successful employment outcomes for major occupation types by different agency types between the years of 2008 and 2012.
 
+Blind, general, and combined agencies all have the highest number of placements in 'Office and Administrative Support Occupations'. After 'Administrative Support Occupations', the second highest number of occupation placements for blind agencies was in 'Sales and Related Occupations', consistent throughout 2008 to 2012. In comparison, 'Sales and Related Occupations' were ranked 4th in general agencies and 5th in combined agencies in 2012.
+
 **Data Source:** RSA-911
 
 **Instructions:** Click the dropdown menu to select data for years 2008-2012.
