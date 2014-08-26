@@ -10,6 +10,8 @@ published: true
 
 **Description:** This chart displays successful employment outcomes by age at closure between the years of 2008 and 2012.
 
+Transition-age youth, ages 14-24, were most heavily employed in 'Food Preparation and Serving Related Occupations' from years 2008 to 2012. 
+
 **Data Source:** RSA-911
 
 **Instructions:** Place your mouse over the bars to see the number of employment outcomes across major occupation types for ages 14 -24 and 25-64. Click the right and left arrows to view data for years 2008-2012.
