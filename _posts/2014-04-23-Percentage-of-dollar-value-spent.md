@@ -4,7 +4,7 @@ layout: post
 categories: 
   - "home-ana"
   - analysis
-published: true
+published: false
 ---
 
 This chart shows the percentage of total costs state public VR programs spent on purchased services for transition-age clients in 2012. The state with the largest amount of money spent is Puerto Rico, with 78.46% of its total costs being allocated to transition-age youth. Apart from Puerto Rico, the states spending the most on transition-age VR clients are Georgia, Tennessee, and Alabama- all ranging from 52 to 64%. 
