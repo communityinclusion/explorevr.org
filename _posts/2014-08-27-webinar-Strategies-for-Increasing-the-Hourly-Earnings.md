@@ -3,7 +3,7 @@ title: Strategies for Increasing the Hourly Earnings of VR Consumers in Western 
 layout: default
 categories:
 - webinars
-- upcoming
+- archived
 ---
 *Wednesday, August 27, 2014 from 2:00 PM to 3:00 PM EST*
 

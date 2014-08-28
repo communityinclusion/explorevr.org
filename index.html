@@ -117,17 +117,21 @@ published: true
           <h3>Upcoming Webinars</h3>
           <h4>RTAC INNOVATION WEBINAR SERIES</h4>
 
-          {% for post in site.categories.upcoming reversed offset:5 limit:2 %}
+          {% for post in site.categories.upcoming reversed offset:3 limit:2 %}
 
 
-              <h4>
+              <h5>
                 <a href="{{ post.url }}">{{ post.title }}</a>
-              </h4>
+              </h5>
                   <p> {{ post.excerpt }} </p>
 
 
           {% endfor %}
+          <h4>ExploreVR Presents VR Employment Patterns Webinar Series</h4>
+            <h5><a href="patterns.html">Upcoming Employment Patterns Webinars</a></h5>
 <p><a href="/upcoming.html"><b>More upcoming training and & TA<span class="glyphicon glyphicon-arrow-right"></span></b></a></p>
+
+
        </div>
 
       </div>

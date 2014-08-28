@@ -3,7 +3,7 @@ title: ExploreVR Presents VR Employment Patterns Webinar Series
 layout: default
 categories: 
   - webinars
-  - upcoming
+  - patterns
 published: true
 ---
 The Institute for Community Inclusion at the University of Massachusetts Boston is hosting a series of webinars on the use of labor market information (LMI) in Vocational Rehabilitation (VR). The webinars will present analyses linking occupational closure data from the Rehabilitation Services Administration’s Case Service Report (RSA-911) to LMI data.  
