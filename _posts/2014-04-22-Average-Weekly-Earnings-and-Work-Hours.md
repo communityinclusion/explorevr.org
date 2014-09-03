@@ -14,6 +14,7 @@ Arts, Design, Entertainment, Sports and Media occupation breaks this trend, wher
 
 High volume occupations generally offer significantly lower weekly earnings for only a marginally lower number of hours worked during the week. For example in 2012, 'Food Preparation and Service Related Occupations' had average weekly earnings of $231.50 while VR clients worked for approximately 27 hours in that week. In comparison, clients employed in 'Architecture and Engineering Occupations' earned approximately $789 while they worked for only 10 more hours in a week.
 
+**Population:** All VR clients
 
 **Data Source:** RSA-911
 
