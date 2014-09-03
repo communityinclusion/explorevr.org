@@ -21,6 +21,13 @@ ExploreVR is part of the Vocational Rehabilitation Research and Training Center 
 
  [1]: http://communityinclusion.org
  [2]: http://www.vr-rrtc.org
+ 
+###Accessability Statement  
+
+ExploreVR strives to make all of its web products accessible and usable to all people, regardless of ability or disability. The overall goal is for our web products to be accessible and usable to anyone connecting in any way. This means that they work for people using screen readers, text-only browsers, keyboards only (no mouse), wireless (phone, PDA), slow connections (dial-up), etc.  
+
+ExploreVR makes every effort to achieve compliance with the World Wide Web Consortium's Web Content Accessibility Guidelines 2.0 ([http://www.w3.org/TR/WCAG20/](http://www.w3.org/TR/WCAG20/)). This helps to ensure that our content is accessible to all users. The accessibility guidelines include using well-formed and highly organized content, providing alternatives to visual elements, captioning video/audio, and being aware of color/contrast, mobility, and cognitive issues. For the application elements, we will use the Accessible Rich Internet Application (ARIA) standard, which provides guidelines for the more interactive and application-like web products. This ensures that our content is both backwards- and future-compatible, and that standard-based technologies (browsers) can access our documents. All browsers can access our site and get an accessible version of all our content.
+
 
 ### The Open Data Initiative
 
