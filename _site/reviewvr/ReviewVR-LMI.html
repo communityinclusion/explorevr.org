@@ -134,10 +134,10 @@ body {
 
 <p>First, we looked at the overall placement patterns of VR case closures by major occupational categories. Table 1 shows the total percentages (%) and proportions (N) in descending order by occupation type from 2008–2012.</p>
 
-<table class="table table-striped table-hover table-bordered">
+<table class="table table-striped table-hover table-bordered sortable" id="myTable1">
 <caption>Table 1. Overview of VR Closure Occupation Patterns, 2008–2012</caption>
-  <tbody>
-    
+
+    <thead>
             <tr>
               <th class="td1">
                 <p class="p6"><b>Major Occupation Categories</b></p>
@@ -193,7 +193,8 @@ body {
                 <p class="p6"><b>%</b></p>
               </th>
             </tr>
-          
+            </thead>
+          <tbody>
             <tr>
               <td class="td1">
                 <p class="p8">Office and Administrative Support Occupations</p>
@@ -1817,9 +1818,14 @@ body {
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
 <script src="/js/jquery.js"></script>
-  <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-
-
+  <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+<script src="/jc/sortabletable.js"></script>
+<script type="text/javascript">
+			window.onload = function() {
+			
+				SortableTable.initAll("sortable");
+			}
+		</script>
 
 
   </body>

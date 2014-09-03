@@ -6,6 +6,9 @@ author: Susan Foley, Libin Zhang, and May-Lorie Saint Laurent
 categories:
   - reviewvr
 ---
+
+
+
 ##Introduction
 
 The Institute for Community Inclusion at the University of Massachusetts Boston is conducting a series of analyses linking occupational closure data from the Rehabilitation Services Administration’s Case Service Report (RSA-911) to labor market trends and needs, as reflected in labor market information (LMI). This effort is funded by the National Institute on Disability and Rehabilitation Research as part of the VR-RRTC on Demand-Side Strategies in Vocational Rehabilitation (VR).  
@@ -27,10 +30,10 @@ We reclassified six-digit detailed codes that represent specific occupations at 
 First, we looked at the overall placement patterns of VR case closures by major occupational categories. Table 1 shows the total percentages (%) and proportions (N) in descending order by occupation type from 2008–2012.
 
 
-<table class="table table-striped table-hover table-bordered">
+<table class="table table-striped table-hover table-bordered sortable" id="myTable1">
 <caption>Table 1. Overview of VR Closure Occupation Patterns, 2008–2012</caption>
-  <tbody>
-    
+
+    <thead>
             <tr>
               <th class="td1">
                 <p class="p6"><b>Major Occupation Categories</b></p>
@@ -86,7 +89,8 @@ First, we looked at the overall placement patterns of VR case closures by major 
                 <p class="p6"><b>%</b></p>
               </th>
             </tr>
-          
+            </thead>
+          <tbody>
             <tr>
               <td class="td1">
                 <p class="p8">Office and Administrative Support Occupations</p>
@@ -1640,4 +1644,9 @@ In general, cross-year changes in rates of employment among major occupational c
 State-level variations of occupation patterns are embedded in the state-level economy, including labor participation and job openings in general. A deeper understanding of the state-level economy and labor market demands will give VR counselors essential knowledge and information for job development and job matching. In addition, occupation information from RSA-911 data has the potential value of helping VR professionals target specific occupations and industries.  
 
 The VR-RRTC on Demand-Side Strategies is funded by the National Institute on Disability and Rehabilitation Research (NIDRR) Grant #H133B120002.
+
+
+
+
+
  
