@@ -18,7 +18,7 @@ High volume occupations generally offer significantly lower weekly earnings for 
 
 **Data Source:** RSA-911
 
-**Instructions:** Place your mouse over bars to see average weekly earnings at closure and on dots to find work hours. Click the dropdown menu to select data for years 2008-2012.
+**Instructions:** Scroll over bars to see average weekly earnings at closure and on dots to find work hours. Click the dropdown menu to select data for years 2008-2012.
 This chart has two x axes. The x axis at top displays the average number of hours worked at closure for a given occupation type and the x axis at the bottom refers to the average weekly earnings for a given occupation. 
 
 
