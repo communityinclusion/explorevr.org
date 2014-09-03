@@ -22,6 +22,8 @@ The chart displays three measures:
 - Average number of months clients spent from eligibility determination to closure
 - Average number of months clients spent from IPE to closure
 
+Blind agencies on average take more time than General or Combined agencies to successfuly close a case from the day of application. The most significant portion of time VR clients spent between date of application and date of closure was after an IPE is created. 
+
 **Population:** All VR clients
 
 **Data Source:** RSA-911
