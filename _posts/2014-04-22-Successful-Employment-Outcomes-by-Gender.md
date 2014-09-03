@@ -1,5 +1,5 @@
 ---
-title: "Successful Employment Outcomes by Gender (2008-2012)"
+title: "Successful Occupation Distribution by Gender (2008-2012)"
 layout: post
 categories: 
   - "home-ana"
