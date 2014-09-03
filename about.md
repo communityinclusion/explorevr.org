@@ -1,7 +1,8 @@
 ---
 title: About
-author: 
+author: null
 layout: default
+published: true
 ---
 
 ## ExploreVR
@@ -24,9 +25,9 @@ ExploreVR is part of the Vocational Rehabilitation Research and Training Center 
  
 ###Accessibility Statement  
 
-ExploreVR strives to make all of its web products accessible and usable to all people, regardless of ability or disability. The overall goal is for our web products to be accessible and usable to anyone connecting in any way. This means that they work for people using screen readers, text-only browsers, keyboards only (no mouse), wireless (phone, PDA), slow connections (dial-up), etc.  
+ExploreVR strives to make all of its web products accessible and usable to all people, including individuals with disabilities. The overall goal is for our web products to be accessible and usable to anyone connecting in any way. This means that they work for people using screen readers, text-only browsers, keyboards only (no mouse), wireless (phone, PDA), slow connections (dial-up), etc. 
 
-ExploreVR makes every effort to achieve compliance with the World Wide Web Consortium's Web Content Accessibility Guidelines 2.0 ([http://www.w3.org/TR/WCAG20/](http://www.w3.org/TR/WCAG20/)). This helps to ensure that our content is accessible to all users. The accessibility guidelines include using well-formed and highly organized content, providing alternatives to visual elements, captioning video/audio, and being aware of color/contrast, mobility, and cognitive issues. For the application elements, we will use the Accessible Rich Internet Application (ARIA) standard, which provides guidelines for the more interactive and application-like web products. This ensures that our content is both backwards- and future-compatible, and that standard-based technologies (browsers) can access our documents. All browsers can access our site and get an accessible version of all our content.
+ExploreVR makes every effort to achieve compliance with the requirements of the U.S. Department of Education's [Accessible Electronic and Information Technology](http://www2.ed.gov/fund/contract/apply/clibrary/software.html) (E&IT) Design, obligated under Sections 504 and 508 of the Rehabilitation Act, 29 U.S.C. 794 and 794d. This is to ensure the accessibility of our content and web applications to individuals with disabilities, specifically its obligation to acquire accessible electronic and information technology. Explore VR also follows the World Wide Web Consortium's Web Content Accessibility Guidelines 2.0 (http://www.w3.org/TR/WCAG20/). This helps to ensure that our content is accessible to all users. The accessibility guidelines include using well-formed and highly organized content, providing alternatives to visual elements, captioning video/audio, and being aware of color/contrast, mobility, and cognitive issues. For the application elements, we will use the Accessible Rich Internet Application (ARIA) standard, which provides guidelines for the more interactive and application-like web products. This ensures that our content is both backwards- and future-compatible, and that standard-based technologies (browsers) can access our documents. All browsers can access our site and get an accessible version of all our content.
 
 
 ### The Open Data Initiative
