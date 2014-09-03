@@ -1,5 +1,5 @@
 ---
-title: "Average time clients spent in VR system (2008-2011)"
+title: "Average time clients spent in the VR system (2008-2011)"
 layout: post
 categories: 
   - "home-ana"
@@ -8,7 +8,7 @@ published: true
 ---
 
 **Description:**
-A number of factors can affect the duration of time a client spends in the vocational rehabilitation process. The following chart highlights the the national average time (in months) that clients spent in VR agencies from 2008 to 2011.
+The following chart highlights the national average time (in months) that clients spent in VR agencies from 2008 to 2011.
 
 The chart presents data for all three types of VR agencies: 
 
@@ -22,7 +22,7 @@ The chart displays three measures:
 - Average number of months clients spent from eligibility determination to closure
 - Average number of months clients spent from IPE to closure
 
-Blind agencies on average take more time than General or Combined agencies to successfuly close a case from the day of application. The most significant portion of time VR clients spent between date of application and date of closure was after an IPE is created. 
+Blind agencies on average take more time than General or Combined agencies to successfuly close a case from the day of application. The most significant portion of time VR clients spent between date of application and date of closure was after an IPE is created. It is noteworthy that a number of factors can affect the duration of time a client spends in the vocational rehabilitation process.
 
 **Population:** All VR clients
 
