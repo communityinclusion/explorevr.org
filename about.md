@@ -22,7 +22,7 @@ ExploreVR is part of the Vocational Rehabilitation Research and Training Center 
  [1]: http://communityinclusion.org
  [2]: http://www.vr-rrtc.org
  
-###Accessability Statement  
+###Accessibility Statement  
 
 ExploreVR strives to make all of its web products accessible and usable to all people, regardless of ability or disability. The overall goal is for our web products to be accessible and usable to anyone connecting in any way. This means that they work for people using screen readers, text-only browsers, keyboards only (no mouse), wireless (phone, PDA), slow connections (dial-up), etc.  
 
