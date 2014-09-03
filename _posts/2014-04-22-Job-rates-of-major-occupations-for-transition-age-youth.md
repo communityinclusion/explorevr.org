@@ -1,5 +1,5 @@
 ---
-title: Job rates of major occupations for transition age youth (2012)
+title: Employment rates of major occupations for transition age youth (2012)
 layout: post
 categories: 
   - "home-ana"
@@ -7,9 +7,9 @@ categories:
 published: true
 ---
 
-**Description:** This table shows the percentages of successful employment outcomes for ages 14-24 across major occupation types in 2012.
+**Description:** This table displays the percentages of successful employment outcomes for ages 14-24 across major occupation types in 2012.
 
-Three major occupation types across all transition-age youth are 'Food Preparation and Serving Related', 'Office and Administrative Support', and 'Sales and Related' occupations. 19.2 % of 15 year olds were employed in 'Food Preparation and Serving Related' occupations. The percentage of transition-age youth employed in 'Food Preparation and Serving' occupations is comparatively lower between ages 16 to 24.
+Three major occupation types across all transition-age youth are 'Food Preparation and Serving Related', 'Office and Administrative Support', and 'Sales and Related' occupations. 19.2 % of 15 year olds were employed in 'Food Preparation and Serving Related' occupations. The percentage of transition-age youth employed in 'Food Preparation and Serving' occupations is comparatively lower between ages 16 - 24.
 
 **Population:** Transition-Age Youth
 
