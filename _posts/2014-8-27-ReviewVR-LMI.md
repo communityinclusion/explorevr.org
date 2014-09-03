@@ -4,9 +4,14 @@ layout: post
 author: "Susan Foley, Libin Zhang, and May-Lorie Saint Laurent"
 categories: 
   - reviewvr
+  - home-pubs 
+  - publications
   
 published: true
 ---
+
+<p>Review VR issue No. 3, 2013</p>
+
 
 ##Introduction
 
