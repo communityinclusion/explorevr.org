@@ -1,11 +1,12 @@
 ---
-title: 'Review VR Brief Series on Vocational Rehabilitation Employment Patterns:
-Occupation Types and Trends (2008–2012)'
+title: "Review VR Brief Series on Vocational Rehabilitation Employment Patterns: Occupation Types and Trends (2008–2012)"
 layout: post
-author: Susan Foley, Libin Zhang, and May-Lorie Saint Laurent
-categories:
+author: "Susan Foley, Libin Zhang, and May-Lorie Saint Laurent"
+categories: 
   - reviewvr
+published: true
 ---
+
 ##Introduction
 
 The Institute for Community Inclusion at the University of Massachusetts Boston is conducting a series of analyses linking occupational closure data from the Rehabilitation Services Administration’s Case Service Report (RSA-911) to labor market trends and needs, as reflected in labor market information (LMI). This effort is funded by the National Institute on Disability and Rehabilitation Research as part of the VR-RRTC on Demand-Side Strategies in Vocational Rehabilitation (VR).  
@@ -1629,7 +1630,7 @@ Across all occupations, we can see that the fluctuations in ranges are most sign
 
 Other occupations also show significant variations across states over the five-year period. In addition, the variations by year differ by occupations. Further examination of such variability requires understanding discrepancies in the context of the state-level economy and local labor markets and demographic characteristics of VR consumers.  
 
-<script type='text/javascript' src='https://public.tableausoftware.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1054px; height: 679px;'><noscript><a href='#'><img alt='Figure2 ' src='https:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;Re&#47;ReviewVRLMI-I&#47;Figure2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='1054' height='679' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableausoftware.com%2F' /> <param name='site_root' value='' /><param name='name' value='ReviewVRLMI-I&#47;Figure2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;Re&#47;ReviewVRLMI-I&#47;Figure2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div><div style='width:1054px;height:22px;padding:0px 10px 0px 0px;color:black;font:normal 8pt verdana,helvetica,arial,sans-serif;'><div style='float:right; padding-right:8px;'><a href='http://www.tableausoftware.com/public/about-tableau-products?ref=https://public.tableausoftware.com/views/ReviewVRLMI-I/Figure2' target='_blank'>Learn About Tableau</a></div></div> 
+<script type='text/javascript' src='https://public.tableausoftware.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 744px; height: 719px;'><noscript><a href='#'><img alt='Figure2.1 ' src='https:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;Re&#47;ReviewVRLMI-I&#47;Figure2_1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='744' height='719' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableausoftware.com%2F' /> <param name='site_root' value='' /><param name='name' value='ReviewVRLMI-I&#47;Figure2_1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;Re&#47;ReviewVRLMI-I&#47;Figure2_1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div><div style='width:744px;height:22px;padding:0px 10px 0px 0px;color:black;font:normal 8pt verdana,helvetica,arial,sans-serif;'><div style='float:right; padding-right:8px;'><a href='http://www.tableausoftware.com/public/about-tableau-products?ref=https://public.tableausoftware.com/views/ReviewVRLMI-I/Figure2_1' target='_blank'>Learn About Tableau</a></div></div> 
 
 ##Conclusion  
 
@@ -1640,4 +1641,3 @@ In general, cross-year changes in rates of employment among major occupational c
 State-level variations of occupation patterns are embedded in the state-level economy, including labor participation and job openings in general. A deeper understanding of the state-level economy and labor market demands will give VR counselors essential knowledge and information for job development and job matching. In addition, occupation information from RSA-911 data has the potential value of helping VR professionals target specific occupations and industries.  
 
 The VR-RRTC on Demand-Side Strategies is funded by the National Institute on Disability and Rehabilitation Research (NIDRR) Grant #H133B120002.
- 
