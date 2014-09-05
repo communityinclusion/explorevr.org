@@ -9,7 +9,7 @@ published: true
 
 *September 11, 2014 from 1:00 PM to 2:00 PM EST.*
 
-###Brief description:
+**Brief description:**
 
 The NJ-DVRS RTAC Project Committee Members developed and implemented a unique screening process which enabled NJ-DVRS counselors within the pilot’s project offices to skillfully identify consumers for jobs in New Jersey’s lucrative Financial Services Sector. RTAC Project Team members worked diligently to enhance collaborative efforts between NJ-DVRS and the New Jersey Financial Services Talent Network (FSTN). The NJ-DVRS and FSTN partnership provided opportunities for NJ-DVRS consumers with the skills and interest to explore jobs in financial services.  NJ-DVRS has a database of job ready consumers to work in the New Jersey Financial Services Industry who were identified, screened and prepared as part of the NJ-RTAC Project. Development activities included:
 
@@ -19,7 +19,7 @@ The NJ-DVRS RTAC Project Committee Members developed and implemented a unique sc
 - Continuous Job Development
 - Continuous training referrals
 
-###Presenters:
+**Presenters:**  
 
 Alice Hunnicutt, NJ-DVRS Director  
 Teresa Owens, NJ-DVRS Chief of Field Services  

@@ -23,12 +23,12 @@ These webinars are free and open to the public. Register, and learn how state VR
 {% for post in site.categories.upcoming reversed %}
 
 
-    <h3>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </h3>
-        <p> {{ post.excerpt }} </p>
+    <h4>
+    {{ post.title }}
+    </h4>
+        <p> {{ post.content }} </p>
 
-
+<hr />
 {% endfor %}
 <p><i>This webinar series is co-sponsored by the Vocational Rehabilitation Research and Training Center on Demand-Side Strategies and the Langston University Rehabilitation Research and Training Center on Research and Capacity Building for Minority Entities, both funded by the National Institute on Disability and Rehabilitation Research.</i></p>
 

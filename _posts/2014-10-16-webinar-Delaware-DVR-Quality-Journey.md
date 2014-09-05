@@ -10,7 +10,7 @@ published: true
 *Thursday, October 16 from 1:00- 2:00 pm EST*
 
 
-### Brief Description:
+**Brief Description:**
 
 This presentation will provide an overview of the Delaware Division of Vocational Rehabilitation’s Quality Project. Key topics to be addressed include: the key action steps; lessons learned; and quality changes implemented.The presenters will discuss their:
 - Vendor summit
@@ -21,7 +21,7 @@ This presentation will provide an overview of the Delaware Division of Vocationa
 - DVR Leadership realignment
 - Motivational Interview Training
 
-###Presenters:
+**Presenters:**  
 
 Ed Tos, Deputy Director  
 Mike Crenshaw, IT Manager

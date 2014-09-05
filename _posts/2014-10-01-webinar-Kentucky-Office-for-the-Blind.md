@@ -9,11 +9,11 @@ published: true
 
 *Wednesday, October 1, 2014 from 2:00 PM to 3:00 PM EST*
 
-### Brief description:
+**Brief description:**
 
 Since May 2010, the Kentucky Department for Workforce Investment, which is comprised of the Office for the Blind, Office of Vocational Rehabilitation, and the Office of Employment and Training, have been working towards a more unified and collaborative approach to the delivery of workforce development services.  Kentucky Office for the Blind has had to adapt to the new business services framework.  This presentation will describe where we have been, where we are now, and where we hope to go as a result of the RTAC project.
 
-##Presenters:
+**Presenters:**  
 
 Janell Turner, Vocational Rehabilitation Administrator  
 Becky Cabe, Assistant Director of Consumer Services  

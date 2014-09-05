@@ -9,11 +9,11 @@ published: true
 
 *Wednesday, August 13, 2014 from 2:00 PM to 3:00 PM EST
 
-### Brief description:
+**Brief description:**
 
 Changing Business Practices for Client Engagement, Independence, and Empowerment
 
-###Presenters:
+**Presenters:**
 
 Mark Schultz, Assistant Commissioner/Director Vocational Rehabilitation  
 Brigid Griffin, Office Director  
