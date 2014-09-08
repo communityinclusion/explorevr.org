@@ -16,7 +16,10 @@
 body {
   padding-top: 50px;
   padding-bottom: 20px;
+  
 }
+table.sortable .sortLink { display: block; *margin-bottom: 1px; color: #000; text-decoration: none; }
+table.sortable .sortIcon { padding-left: 3px; vertical-align: 1px; }
 
     </style>
     <link href="/css/bootstrap-responsive.css" rel="stylesheet">
@@ -39,7 +42,8 @@ body {
 
   <body>
 
-   <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+   <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -112,7 +116,7 @@ body {
 <div class="container">
   <!-- Example row of columns -->
   <div class="row">
-    <div class="col-md-9">
+    <div class="col-md-9" id="content">
 <h2>Rehabilitation Rates for Blind Agencies</h2>
       <p>In the 2011 National Survey of State Vocational Rehabilitation Agencies we asked VR agencies to report where they are located within the government structure of their state—their Designated State Agency (DSA) or “parent agency.” Based on survey responses to this question we categorized VR agencies into 1 of 5 categories: Labor / Workforce, Independent (they do not have a parent agency), Human/Social Services, Education, or Other. We paired this data with RSA-911 rehabilitation rate data to analyze rehabilitation rates based on parent agency. Rehabilitation rate is the ratio of successful closures (Status 26) relative to the sum of successful closures and people not rehabilitated with an IPE (Status 28). We created two charts, one for general and combined agencies and one for blind agencies. Rehabilitation rates for the following population groups are specifically included:</p>
 
@@ -199,13 +203,14 @@ body {
     <!-- Placed at the end of the document so the pages load faster -->
 <script src="/js/jquery.js"></script>
   <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-<script src="/jc/sortabletable.js"></script>
-<script type="text/javascript">
-			window.onload = function() {
-			
-				SortableTable.initAll("sortable");
-			}
-		</script>
+<script src="/jc/jquery.tablesorter.js"></script>
+<script>
+$(document).ready(function(){
+$(function(){
+$("#mytable").tablesorter();
+});
+});
+</script>
 
 
   </body>

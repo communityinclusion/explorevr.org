@@ -16,7 +16,10 @@
 body {
   padding-top: 50px;
   padding-bottom: 20px;
+  
 }
+table.sortable .sortLink { display: block; *margin-bottom: 1px; color: #000; text-decoration: none; }
+table.sortable .sortIcon { padding-left: 3px; vertical-align: 1px; }
 
     </style>
     <link href="/css/bootstrap-responsive.css" rel="stylesheet">
@@ -39,7 +42,8 @@ body {
 
   <body>
 
-   <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+   <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -112,7 +116,7 @@ body {
 <div class="container">
   <!-- Example row of columns -->
   <div class="row">
-    <div class="col-md-9">
+    <div class="col-md-9" id="content">
 <h2>Rehabilitation Rate by Disability Category</h2>
       <p>The rehabilitation rates for each type of disability at agency level were generated using RSA-911 FY2011 personal level data following these steps. Individuals were categorized into nine mutually exclusive disability groups (Visual, Hearing, Orthopedic, Intellectual, Substance abuse, Mental health, Learning disability, Traumatic brain injury and Other) based on the primary impairment and cause of primary impairment reported. Nine dichotomized dummy variables were created.</p>
 
@@ -195,13 +199,14 @@ Finally, rehabilitation rate was calculated by dividing the total number of stat
     <!-- Placed at the end of the document so the pages load faster -->
 <script src="/js/jquery.js"></script>
   <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-<script src="/jc/sortabletable.js"></script>
-<script type="text/javascript">
-			window.onload = function() {
-			
-				SortableTable.initAll("sortable");
-			}
-		</script>
+<script src="/jc/jquery.tablesorter.js"></script>
+<script>
+$(document).ready(function(){
+$(function(){
+$("#mytable").tablesorter();
+});
+});
+</script>
 
 
   </body>
