@@ -4,9 +4,8 @@ layout: post
 author: "Susan Foley, Libin Zhang, and May-Lorie Saint Laurent"
 categories: 
   - reviewvr
-  - home-pubs 
+  - "home-pubs"
   - publications
-  
 published: true
 ---
 
@@ -974,7 +973,7 @@ First, we looked at the overall placement patterns of VR case closures by major 
         </table> 
 										
 
-The rank of occupation categories as displayed in Table 2 is mostly consistent across the five years, representing the stability of job placement patterns of VR agencies at the aggregated, national level during this period. The steady decline of the total number of employment closures from 2008 to 2012 could be associated with the shrinkage of job opportunities in the labor market for VR consumers after the 2008 economic crisis. Per the RSA-911 reporting system, closures in the last quarter of 2012 were reported in 2013; hence, the total number of closures in 2012 appears to be significantly lower than in previous years.  
+The rank of occupation categories as displayed in Table 2 is mostly consistent across the five years, representing the stability of job placement patterns of VR agencies at the aggregated, national level during this period. The steady decline of the total number of employment closures from 2008 to 2012 could be associated with the shrinkage of job opportunities in the labor market for VR consumers after the 2008 economic crisis. 
 
 **What are the most frequent SOC groups for successfully closed VR customers nationwide?**  
 
@@ -1649,9 +1648,3 @@ State-level variations of occupation patterns are embedded in the state-level ec
 
 
 The VR-RRTC on Demand-Side Strategies is funded by the National Institute on Disability and Rehabilitation Research (NIDRR) Grant #H133B120002.
-
-
-
-
-
- 
