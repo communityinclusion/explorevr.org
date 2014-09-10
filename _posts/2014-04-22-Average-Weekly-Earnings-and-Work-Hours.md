@@ -12,7 +12,7 @@ published: true
 In general, weekly hours follow the trend of weekly earnings, i.e., less  earnings for less hours worked for any particular major occupation type.
 Arts, Design, Entertainment, Sports and Media occupation breaks this trend, where weekly earnings are relatively higher for a relatively lower number of weekly hours. It should be noted that this occupation type corresponds to low volume occupations because a small number of VR clients are placed in 'Arts, Design, Entertainment, Sports and Media occupations'.
 
-High volume occupations generally offer significantly lower weekly earnings for only a marginally lower number of hours worked during the week. For example in 2012, 'Food Preparation and Service Related Occupations' had average weekly earnings of $231.50 while VR clients worked for approximately 27 hours in that week. In comparison, clients employed in 'Architecture and Engineering Occupations' earned approximately $789.00 while they worked for only 10 more hours in a week.
+High volume occupations generally offer significantly lower weekly earnings for only a marginally lower number of hours worked during the week. For example in 2012, 'Food Preparation and Service Related Occupations' had average weekly earnings of $231.50 while VR clients worked for approximately 27 hours in that week. In comparison, clients employed in 'Architecture and Engineering Occupations' earned approximately $789.00 while they worked for approximately 37  hours in a week.
 
 **Population:** All VR clients
 
