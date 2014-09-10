@@ -1121,7 +1121,7 @@ Year-to-year employment variability in major occupational categories can suggest
 
 State-by-state variations of major occupational categories at closure can be measured by two factors: the total number of state-level VR consumers employed in a specific major occupational category, and the total number of employment closures in this state in a given year. By dividing the two numbers, we calculated the closure rate of each major occupational category for all states in all years. Then, we calculated descriptive statistics—minimum, maximum, mean, median, and range—for all major occupational categories across all states from 2008 to 2012. We excluded the territories (Puerto Rico, Virgin Islands, American Samoa, and Northern Mariana Islands) for state-level comparison because their small sample size greatly skews the measures of variation across states.  
 
-The results of mean and median, showing the average rate by occupation by year across all states, are largely comparable to the national-level means in Table 1. The range reflects the difference between states reporting the highest vs. lowest employment rate by occupation by year. Such variations across states are depicted in Figure 3. Detailed numbers on the range of employment rates are described in Table 3.  
+The results of mean and median, showing the average rate by occupation by year across all states, are largely comparable to the national-level means in Table 1. The range reflects the difference between states reporting the highest vs. lowest employment rate by occupation by year. Such variations across states are depicted in Figure 2. Detailed numbers on the range of employment rates are described in Table 3.  
 
 <table class="table table-striped table-hover table-bordered">
 <thead>
