@@ -10,6 +10,7 @@ published: true
 **Description:** This chart displays occupation distribution by gender for successful employment outcomes at closure between the years of 2008 and 2012. 
 
 In terms of total number of employment outcomes at closure between the given time period, 'Transportation and Material Moving Occupations', 'Building and Grounds Cleaning and Maintenance Occupations', and 'Office and Administrative Support Occupations' were the top three occupation where most of the men were employed. For the same time period, 'Office and Administrative Support Occupations', 'Sales and Related Occupations', and 'Food Preparation and Serving Related Occupations' were the top three occupation types where most number of females were employed.
+
 The bottom three jobs for the given time period where least number of males were employed were - 'Legal Occupations' 'Military Specific Occupations', and 'Life, Physical, and Social Science Occupations'. Similarly for females the bottom three jobs across the given time period were - 'Construction and Extraction Occupations', 'Farming, Fishing, and Forestry Occupations', and 'Architecture and Engineering Occupations'. 
 
 A clear pattern emerges from this brief analysis that certain occupations, such as 'Healthcare Support and Practitioner occupations' predominantly employ females, while 'Transportation and Material Moving' and 'Building and Grounds Cleaning and Maintenance' occupations predominantly employ males.
