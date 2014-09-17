@@ -8,7 +8,7 @@ published: true
 <div class="bg-primary lab_highlight  grapher2">
 <h2>Welcome to the Data Lab!</h2>
 
-### What is the Data Lab?<p> The Data Lab is an interactive web potral that offers access to a range of Vocational Rehabilitation and related data. 
+### What is the Data Lab?<p> The Data Lab is an interactive web portal that offers access to a range of Vocational Rehabilitation and related data. 
 
 ### How can I use the Data Lab?
 Explore the Data Lab to find out how your agency compares to others and access publicly-available data and analyses that can inform your planning, evauation, and decison making. 
