@@ -5,7 +5,7 @@ categories:
   - transition
   - "home-ana"
   - analysis
-published: true
+published: false
 ---
 
 Transition age (14-24) is an important age group for VR agencies. The following graphs present statistics on how different state vocational rehabilitation agencies are faring in terms of the number of transition age clients they are servicing in comparison to other clients (non-transition) and the amount of money they are spending on transition-age youth. 
