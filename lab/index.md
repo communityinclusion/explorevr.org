@@ -1,9 +1,10 @@
 ---
-title: "<img alt=\"Explore VR\" src=\"/assets/evr_logo.png\" alt=\"exploreVR logo\" />"
+title: <img alt=
 author: admin
 layout: lab
 published: true
 ---
+
 <div class="bg-primary lab_highlight  grapher2">
 <h2>The Lab</h2>
 <p> This will be special section which will be geared towards the researchers who are working in the field of disability or VR. This section will house mainly two types of content:</p>
@@ -66,4 +67,4 @@ published: true
 {% endfor %}
 
 <h2>VR Survey Data (coming soon)</h2>
-<p>The Institute for Community Inclusion (ICI) has surveyed a number of vocational rehabilitation (VR) agencies statewide on a quarterly basis to measure levels of VR services provided with respect to employment outcomes, agency partnerships, state demographics and other data points.</p>
+<p>The Institute for Community Inclusion (ICI) has surveyed a number of vocational rehabilitation (VR) agencies statewide to measure levels of VR services provided with respect to employment outcomes, agency partnerships, state demographics and other data points.</p>
