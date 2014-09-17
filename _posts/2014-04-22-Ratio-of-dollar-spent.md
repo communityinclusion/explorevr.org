@@ -7,11 +7,11 @@ categories:
 published: true
 ---
 
-**Description:**
+**Description:** This chart presents the ratio of money spent on transition-age youth clients in comparison to all other clients.
 
 Ratio = Dollars spent on transition-age clients/ Dollars spent on all other clients
 
-Ratio in this case helps in appreciating the relative expenditure for purchasing services for transition age youth. The number displayed is the dollar amount spent on transition age clients for every dollar spent on all other clients. For example, Puerto Rico spends $3.64 for every dollar that they spend on all other clients.
+Ratio in this case helps determine the relative expenditure for purchasing services for transition age youth. The number displayed is the dollar amount spent on transition age clients for every dollar spent on all other clients. For example, Puerto Rico spends $3.64 for every dollar that they spend on all other clients.
 
 **Population:** Transition-age youth
 
