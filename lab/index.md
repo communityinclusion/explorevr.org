@@ -6,8 +6,19 @@ published: true
 ---
 
 <div class="bg-primary lab_highlight  grapher2">
-<h2>The Lab</h2>
-<p> This will be special section which will be geared towards the researchers who are working in the field of disability or VR. This section will house mainly two types of content:</p>
+<h2>Welcome to the Data Lab!</h2>
+
+### What is the Data Lab?<p> The Data Lab is an interactive web potral that offers access to a range of Vocational Rehabilitation and related data. 
+
+### How can I use the Data Lab?
+Explore the Data Lab to find out how your agency compares to others and access publicly-available data and analyses that can inform your planning, evauation, and decison making. 
+
+Users can: 
+- Download data sets
+- View data analyses
+- Request customized analyses
+
+### What can I explore in the Data Lab?The Data Lab houses two types of content:</p>
 <ul>
 <li>Data Repository: Download link and description of multiple datasets related to disability or VR</li>
 <li>Data Analysis: Code used for data analysis and visualization will be provided under this section</li>
