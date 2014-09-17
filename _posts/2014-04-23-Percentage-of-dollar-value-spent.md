@@ -4,7 +4,7 @@ layout: post
 categories: 
   - "home-ana"
   - analysis
-published: false
+published: true
 ---
 
 **Description:** This chart shows the percentage of total costs state public VR programs spent on purchased services for transition-age clients in 2012. 
