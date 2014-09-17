@@ -5,11 +5,13 @@ layout: lab
 published: true
 ---
 <div class="bg-primary lab_highlight  grapher2">
-<h2>The Lab</h2>
-<p> This will be special section which will be geared towards the researchers who are working in the field of disability or VR. This section will house mainly two types of content:</p>
+<h2>The Data Lab</h2>
+<p> The Data Lab is an interactive web portal that offers access to a range of Vocational Rehabilitation and related data.</p> 
+<p> Explore the Data Lab to:</p>
 <ul>
-<li>Data Repository: Download link and description of multiple datasets related to disability or VR</li>
-<li>Data Analysis: Code used for data analysis and visualization will be provided under this section</li>
+<li>Download data sets of view a variety of data points related to VR</li>
+<li>View data analyses to inform your planning, evaluation, and decision-making</li>
+<li>Request a customized analysis to see how your agency compares to others</li>
 </ul>
 </div>
 <h2>RSA-911 Data</h2>
