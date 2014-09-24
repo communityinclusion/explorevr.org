@@ -1,4 +1,13 @@
+
+
+body{ background-image: url(/img/chart_imagejc.png); background-size:100%; background-repeat:none;}
+
 .grapher {background-image: url(/img/bg_chart_image.png); background-size:100%; background-color:#186FBD; color:white;}
+.bluey{background-color:#E5F7FA;  padding:.5em;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px; /* future proofing */
+-khtml-border-radius: 10px; /* for old Konqueror browsers */}
 
 .grapher2 {background-image: url(/img/bg_chart_image2.png);  background-color:#186FBD; color:white; padding:1em;}
 .spotlight {background-color: #343434; background-size:100%;  color:white;}
@@ -19,3 +28,6 @@ footer{font-size:smaller;}
 h4{padding-top:1em;}
 th{text-align:center;}
 caption{font-weight:bold;}
+
+hr {color:black;}
+.jumbotron > h3 {padding-top:0px; margin-top:0px;}
