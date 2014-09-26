@@ -1,6 +1,4 @@
 
-
-
 .grapher {background-image: url(/img/bg_chart_image.png); background-size:100%; background-color:#186FBD; color:white;}
 .bluey{background-color:#E5F7FA;  padding:.5em;
 -moz-border-radius: 10px;
@@ -23,6 +21,8 @@ img {
 .jc li {padding: .5em;}
 
 footer{font-size:smaller;}
+
+h3{padding-top:0px; margin-top:0px;}
 
 h4{padding-top:1em;}
 th{text-align:center;}
