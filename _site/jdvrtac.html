@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-        <title>Explore VR </title>
+        <title>Job-Driven VRTAC </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -16,9 +16,12 @@
 
       /* Move down content because we have a fixed navbar that is 50px tall */
 body {
-  padding-top: 60px;
+  padding-top: 50px;
   padding-bottom: 20px;
+  
 }
+table.sortable .sortLink { display: block; *margin-bottom: 1px; color: #000; text-decoration: none; }
+table.sortable .sortIcon { padding-left: 3px; vertical-align: 1px; }
 
     </style>
     <link href="/css/bootstrap-responsive.css" rel="stylesheet">
@@ -112,29 +115,45 @@ body {
     </div>
 
 
-<div class="container jc">
 
-<h1></h1>
+<div class="container">
+  <!-- Example row of columns -->
+  <div class="row">
+    <div class="col-md-9" id="content">
+<h2>Job-Driven VRTAC</h2>
+      <h4 id="job-driven-vocational-rehabilitation-technical-assistance-center">Job-Driven Vocational Rehabilitation Technical Assistance Center</h4>
+
+<p>The Job-Driven VRTAC strives to identify, adapt, embed, and sustain job-driven practices that lead to improved employment outcomes for people with disabilities. Our center supports businesses to find and retain productive workers. The center creates VR-specific sustainable models of job-driven practices. </p>
+
+<p>Outcomes and strategies from the Job-Driven VRTAC will develop a knowledge base on the four topic areas of labor market information, services to employers, building and maintaining employer relations, and services to training providers. </p>
+
+<p>The project activities focus on:</p>
+
+<ul>
+  <li>Building state VR agencies’ capacity to improve and expand job-driven employment practices for consumers;</li>
+  <li>Using and building upon promising and emerging job-driven strategies; </li>
+  <li>Providing three types of technical assistance (TA): intensive TA, targeted/specialized TA, and universal/general TA; and</li>
+  <li>Disseminating materials pertaining to the use of job driven strategies.</li>
+</ul>
+
+<p>The Job-Driven VRTAC is a collective partnership between the Institute for Community Inclusion at UMass Boston and:</p>
+
+<ul>
+  <li>Jobs for the Future (JFF)</li>
+  <li>The University of Arkansas (UA) CURRENTS</li>
+  <li>The University of Washington (UW)</li>
+  <li>The US Business Leadership Network (USBLN)</li>
+  <li>Association of University Centers on Disabilities (AUCD)</li>
+  <li>Bobby Silverstein at Power, Pyles, Sutter &amp; Verville</li>
+</ul>
+
+<p>The Job-Driven VRTAC is funded by Rehabilitation Services Administration Grant #H264A140002.</p>
 
 
+</div>
+</div><!--row-->
 
-      <h2> Program Management</h2>
-
-
-
-    <h3>
-      <a href="/webinars/archived/procedure/program-management/Toward-a-model.html">Toward a Model of VR Program Management &#58; Case Study Findings on Effective VR Management in Strategic Planning, Quality Assurance, and Human Resources Presentation.</a>
-    </h3>
-        <p> <p>October 25, 2011 presentation to the Council of State Administrators of Vocational Rehabilitation (CSAVR) by Susan Foley, Robert Burns, and John Halliday.</p>
-
- </p>
-
-
-
-<h2> Affordable Care Act</h2>
-<h2> Americans with Disability Act</h2>
-<h2> Order of Selection</h2>
-<h2> Technology</h2>
+</div><!--containter-->
 
             <footer>
 <div class="container">
@@ -201,15 +220,15 @@ body {
 <script src="/js/jquery.js"></script>
   <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
   <script src="/jc/bootstrap-accessibility.min.js"></script>
-<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.17.7/addons/pager/jquery.tablesorter.pager.min.js"></script>
-<script type="text/javascript">
-$(document).ready(function() 
-    { 
-        $("#myTable1").tablesorter(); 
-    } 
-); 
-</script>
 
+<script src="/jc/jquery.tablesorter.js"></script>
+<script>
+$(document).ready(function(){
+$(function(){
+$("#mytable").tablesorter();
+});
+});
+</script>
 
 
   </body>

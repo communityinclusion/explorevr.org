@@ -1,7 +1,7 @@
 ---
 title: VR-RRTC
 author: admin
-layout: default
+layout: post
 ---
 
 ![vrrtc logo](/img/logos/VRRRTC_F.png)

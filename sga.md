@@ -2,7 +2,7 @@
 title: The SGA Project
 
 author: admin
-layout: default
+layout: post
 ---
 
 ![SGA logo](/img/logos/SGA_F.png)

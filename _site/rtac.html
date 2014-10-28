@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-        <title>Explore VR </title>
+        <title>RTAC on Vocational Rehabilitation Program Management </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -16,9 +16,12 @@
 
       /* Move down content because we have a fixed navbar that is 50px tall */
 body {
-  padding-top: 60px;
+  padding-top: 50px;
   padding-bottom: 20px;
+  
 }
+table.sortable .sortLink { display: block; *margin-bottom: 1px; color: #000; text-decoration: none; }
+table.sortable .sortIcon { padding-left: 3px; vertical-align: 1px; }
 
     </style>
     <link href="/css/bootstrap-responsive.css" rel="stylesheet">
@@ -97,6 +100,7 @@ body {
                 <li><a href="/rtac.html">RTAC</a></li>
                 <li><a href="/sga.html">SGA</a></li>
                 <li><a href="/demandside.html">Demand-Side Strategies</a></li>
+                <li><a href="/jdvrtac.html">JDVRTAC</a></li>
 
 
               </ul>
@@ -111,14 +115,12 @@ body {
     </div>
 
 
-<div class="container jc">
 
-<h1>RTAC on Vocational Rehabilitation Program Management</h1>
-
-
-<p> By admin </p>
-
-
+<div class="container">
+  <!-- Example row of columns -->
+  <div class="row">
+    <div class="col-md-9" id="content">
+<h2>RTAC on Vocational Rehabilitation Program Management</h2>
       <p><img src="/img/logos/RTAC_F.png" alt="rtac logo" /></p>
 
 <p>Research and Technical Assistance Center (RTAC) identifies, tests, and disseminates vocational rehabilitation (VR) program management practices that improve employment outcomes for people with disabilities. RTAC generates new knowledge by identifying effective practices in the areas of Quality Assurance (QA), Human Resources (HR), and Strategic Planning (SP) and through a nine states VR Management Learning Collaborative.  VR agencies can benefit from RTAC by accessing exemplars, tools, and guidance on how to implement the model within their unique contexts.</p>
@@ -135,6 +137,10 @@ body {
 <p>Funder Information:
 The VR-RTAC is a five-year cooperative agreement with the National Institute on Disability and Rehabilitation Research (NIDRR).</p>
 
+</div>
+</div><!--row-->
+
+</div><!--containter-->
 
             <footer>
 <div class="container">
@@ -201,15 +207,15 @@ The VR-RTAC is a five-year cooperative agreement with the National Institute on 
 <script src="/js/jquery.js"></script>
   <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
   <script src="/jc/bootstrap-accessibility.min.js"></script>
-<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.17.7/addons/pager/jquery.tablesorter.pager.min.js"></script>
-<script type="text/javascript">
-$(document).ready(function() 
-    { 
-        $("#myTable1").tablesorter(); 
-    } 
-); 
-</script>
 
+<script src="/jc/jquery.tablesorter.js"></script>
+<script>
+$(document).ready(function(){
+$(function(){
+$("#mytable").tablesorter();
+});
+});
+</script>
 
 
   </body>

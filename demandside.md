@@ -1,7 +1,7 @@
 ---
 title: VR-RRTC on Demand-Side Strategies
 author: admin
-layout: default
+layout: post
 ---
 
 ![Demand-Side logo](/img/logos/ondemand_F.png)

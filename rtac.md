@@ -1,7 +1,7 @@
 ---
 title: RTAC on Vocational Rehabilitation Program Management
 author: admin
-layout: default
+layout: post
 ---
 
 ![rtac logo](/img/logos/RTAC_F.png)
