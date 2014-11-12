@@ -2,14 +2,18 @@
 published: false
 ---
 
-**Description:** This figure presents the ratio of successful employment outcomes for transition-age youth clients in comparison to all other clients within a specific occupation type.The results are presented by geographic location and can be filtered by year and occupation type. By calculating ratio in this way, we are able to control for the total number of clients that are being served by an agency.
+## Median Age by Gender for Major Occupation Types
 
-Ratio = Number of transition-age clients closed successfully in a particular ocupation/ Number of all other clients closed successfully in a particular occupation.
+**Description:** This figure presents the median age by gender for VR clients successfully closed within major occupation types.The results are presented by dots indicating the median age of males and females and can be filtered by year and occupation type.
 
-For example, in 2012 the ratio for Iowa was 2.2 for 'Construction and Extraction Related Occupations', which means that for every 100 non-transition clients that were successfully closed in 'Construction and Extraction Related Occupations' there were 220 transition-age youth clients placed in the same occupation type. 
+Median = the numerical value separating the higher half of a data sample from the lower half
 
-**Population:** Transition-age youth
+For example, in 2012 the median age for females was 44 for 'Farming, Fishing and Forrestry Occupations', whereas the median age for males was 35 within the same occupation type. 
+
+**Population:** All VR clients 
 
 **Data Source:** RSA-911
 
-**Instructions:** In this figure, higher ratio values are represented by darker shades of blue. Each bar represents the ratio value associated with the state. Ratio value associated with each state can be seen by placing the mouse pointer over the state. This chart is interactive and users can select an occupation type by clicking on the associated radio button. Click the left to right arrows to view years from 2008-2012.
+**Instructions:** In this figure, median age values are represented by dorange dots for females and blue dots for males. Each row represents a different major occupation type.  Click the left to right arrows to view years from 2008-2012.
+
+<script type='text/javascript' src='https://public.tableausoftware.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 768px; height: 924px;'><noscript><a href='#'><img alt='Median Age by Gender for Major Occupation Categories(Source: RSA 911) ' src='https:&#47;&#47;publicrevizit.tableausoftware.com&#47;static&#47;images&#47;XK&#47;XKPTFKQMC&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='768' height='924' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableausoftware.com%2F' /> <param name='path' value='shared&#47;XKPTFKQMC' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;publicrevizit.tableausoftware.com&#47;static&#47;images&#47;XK&#47;XKPTFKQMC&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='showVizHome' value='no' /><param name='showTabs' value='y' /></object></div><div style='width:768px;height:22px;padding:0px 10px 0px 0px;color:black;font:normal 8pt verdana,helvetica,arial,sans-serif;'><div style='float:right; padding-right:8px;'><a href='http://www.tableausoftware.com/public/about-tableau-products?ref=https://public.tableausoftware.com/shared/XKPTFKQMC' target='_blank'>Learn About Tableau</a></div></div>
