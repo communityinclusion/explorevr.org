@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Median Age by Gender for Major Occupation Types
