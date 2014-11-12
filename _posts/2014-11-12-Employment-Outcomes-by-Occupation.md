@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Employment Outcomes for Major Occupation Types
