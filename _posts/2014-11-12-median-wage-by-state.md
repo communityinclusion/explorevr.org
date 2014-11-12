@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 ---
 
-## Median wage by states for Major Occupation Types
+## Median Wage by States for Major Occupation Types
 
 **Description:** This figure presents the median wage in different states for VR clients successfully closed within major occupation types. The results are presented in a map where darker shades of blue represent higher median wages.
 
