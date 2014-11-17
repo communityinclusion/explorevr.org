@@ -17,22 +17,7 @@ In the year 2012, the highest number of employment outcomes were in 'Office and 
 <script type='text/javascript' src='https://public.tableausoftware.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1024px; height: 694px;'><noscript><a href='#'><img alt='Employment Outcomes by Major Occupation Categories(RSA 911) ' src='https:&#47;&#47;publicrevizit.tableausoftware.com&#47;static&#47;images&#47;9C&#47;9C7CMJG8W&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='1024' height='694' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableausoftware.com%2F' /> <param name='path' value='shared&#47;9C7CMJG8W' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;publicrevizit.tableausoftware.com&#47;static&#47;images&#47;9C&#47;9C7CMJG8W&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='showVizHome' value='no' /><param name='showTabs' value='y' /></object></div><div style='width:1024px;height:22px;padding:0px 10px 0px 0px;color:black;font:normal 8pt verdana,helvetica,arial,sans-serif;'><div style='float:right; padding-right:8px;'><a href='http://www.tableausoftware.com/public/about-tableau-products?ref=https://public.tableausoftware.com/shared/9C7CMJG8W' target='_blank'>Learn About Tableau</a></div></div>
 
 Data Table
-<style type="text/css">
-	table.tableizer-table {
-	border: 1px solid #CCC; font-family: Arial, Helvetica, sans-serif
-	font-size: 12px;
-} 
-.tableizer-table td {
-	padding: 4px;
-	margin: 3px;
-	border: 1px solid #ccc;
-}
-.tableizer-table th {
-	background-color: #919191; 
-	color: #FFF;
-	font-weight: bold;
-}
-</style><table class="tableizer-table">
+<table class="tableizer-table">
 <tr class="tableizer-firstrow"><th>Occupations</th><th>2007</th><th>2008</th><th>2009</th><th>2010</th><th>2011</th><th>2012</th><th>Grand Total</th></tr>
  <tr><td>Office and Administrative Support Occupations</td><td>31568</td><td>31013</td><td>25338</td><td>24663</td><td>24945</td><td>19730</td><td>157257</td></tr>
  <tr><td>Food Preparation and Serving Related Occupations</td><td>20724</td><td>20709</td><td>18405</td><td>18444</td><td>19260</td><td>14536</td><td>112078</td></tr>
