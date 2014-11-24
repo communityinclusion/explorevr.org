@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Median Wage by States for Major Occupation Types
