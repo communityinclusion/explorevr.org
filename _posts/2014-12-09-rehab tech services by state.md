@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## State Comparisons of Average Spending on Rehabilitation Technology Services
