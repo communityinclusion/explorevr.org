@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Annual Spending on Personal Assistance Services
