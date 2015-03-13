@@ -185,3 +185,6 @@ body {
 body{padding-top:50px;}
 
 #contact{background-color: white; color: black;}
+#contact a {color:darkblue;}
+#analysis{background-color: white; color: black;}
+#analysis a {color:darkblue;}
