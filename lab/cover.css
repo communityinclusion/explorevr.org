@@ -189,4 +189,10 @@ body{padding-top:50px;}
 #analysis a {color:darkblue;}
 
 .white{background: white; color: black;}
+.white a{color:darkblue;}
+
+.tron { margin-top: 3em;
+ background: none repeat scroll 0% 0% #222;
+ color: white;}
+
 
